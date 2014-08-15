@@ -1,0 +1,32 @@
+Glyph 1 has non-standard psname '.null'
+Lookup 'clig_S4' has unhandled subtable format 2 -- ignoring subtable.
+Lookup 'clig_S6' has unhandled subtable format 2 -- ignoring subtable.
+Glyph 3 is a ligature, but I don't know how many components it has.
+Glyph 4 is a ligature, but I don't know how many components it has.
+Glyph 5 is a ligature, but I don't know how many components it has.
+Glyph 6 is a ligature, but I don't know how many components it has.
+Glyph 7 is a ligature, but I don't know how many components it has.
+Glyph 8 is a ligature, but I don't know how many components it has.
+Glyph 9 is a ligature, but I don't know how many components it has.
+Glyph 10 is a ligature, but I don't know how many components it has.
+Glyph 11 is a ligature, but I don't know how many components it has.
+Glyph 16 is a ligature, but I don't know how many components it has.
+Glyph 20 is a ligature, but I don't know how many components it has.
+Glyph 23 is a ligature, but I don't know how many components it has.
+Glyph 24 is a ligature, but I don't know how many components it has.
+Glyph 25 is a ligature, but I don't know how many components it has.
+Glyph 29 is a ligature, but I don't know how many components it has.
+Glyph 30 is a ligature, but I don't know how many components it has.
+Glyph 31 is a ligature, but I don't know how many components it has.
+Glyph 32 is a ligature, but I don't know how many components it has.
+Glyph 36 is a ligature, but I don't know how many components it has.
+Glyph 37 is a ligature, but I don't know how many components it has.
+Glyph 61 is a ligature, but I don't know how many components it has.
+Glyph 62 is a ligature, but I don't know how many components it has.
+Glyph 63 is a ligature, but I don't know how many components it has.
+Glyph 67 is a ligature, but I don't know how many components it has.
+Glyph 68 is a ligature, but I don't know how many components it has.
+Glyph 69 is a ligature, but I don't know how many components it has.
+
+FINISHED. 29 warnings issued. No unnamed glyphs used. 
+
