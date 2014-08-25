@@ -1,5 +1,5 @@
 /*
-    Glyph information for font Aiton Unicode at Mon Aug 18 16:17:33 2014
+    Glyph information for font Aiton Unicode at Mon Aug 25 18:17:01 2014
 */
 
 table(glyph) {MUnits = 1000};
@@ -7,30 +7,30 @@ g__notdef = glyphid(0);
 g__null = glyphid(1);
 g_nonmarkingreturn = glyphid(2);
 g_space = glyphid(3);
-g1000 = glyphid(4) {Anchor-2S = point(444m, 0m); Anchor-1S = point(724m, -4m); Anchor-3S = point(643m, 416m); Anchor-0S = point(787m, 0m)};
-g1002 = glyphid(5) {Anchor-2S = point(253m, 0m); Anchor-1S = point(252m, 0m); Anchor-3S = point(256m, 416m)};
-g1004 = glyphid(6) {Anchor-2S = point(222m, 0m); Anchor-1S = point(222m, 0m); Anchor-3S = point(229m, 416m)};
-g1010 = glyphid(7) {Anchor-2S = point(446m, 0m); Anchor-1S = point(686m, 0m); Anchor-3S = point(650m, 416m)};
-g1011 = glyphid(8) {Anchor-2S = point(446m, 0m); Anchor-1S = point(648m, 0m); Anchor-3S = point(648m, 416m)};
-g1012 = glyphid(9) {Anchor-2S = point(259m, 0m); Anchor-1S = point(260m, 0m); Anchor-3S = point(255m, 416m)};
-g1015 = glyphid(10) {Anchor-2S = point(282m, 0m); Anchor-1S = point(282m, 0m); Anchor-3S = point(280m, 416m); Anchor-0S = point(451m, 0m)};
-g1017 = glyphid(11) {Anchor-2S = point(260m, 0m); Anchor-1S = point(259m, 0m); Anchor-3S = point(250m, 416m)};
-g1019 = glyphid(12) {Anchor-2S = point(259m, 0m); Anchor-1S = point(259m, 0m); Anchor-3S = point(272m, 416m); Anchor-0S = point(420m, 0m)};
-g101a = glyphid(13) {Anchor-2S = point(451m, 0m); Anchor-1S = point(645m, 0m); Anchor-3S = point(621m, 416m)};
-g101c = glyphid(14) {Anchor-2S = point(446m, 0m); Anchor-1S = point(648m, 0m); Anchor-3S = point(655m, 416m)};
-g101d = glyphid(15) {Anchor-2S = point(256m, 0m); Anchor-1S = point(255m, 0m); Anchor-3S = point(255m, 416m)};
-g1022 = glyphid(16) {Anchor-2S = point(544m, 0m); Anchor-1S = point(895m, 0m); Anchor-3S = point(832m, 416m)};
-g102d = glyphid(17) {Anchor-3M = point(-246m, 394m)};
-g102e = glyphid(18) {Anchor-3M = point(-248m, 394m)};
-g102f = glyphid(19) {Anchor-1M = point(-163m, 0m)};
-g1030 = glyphid(20) {Anchor-1M = point(-208m, 0m)};
+g1000 = glyphid(4) {Anchor3S = point(643m, 416m); Anchor0S = point(787m, 0m); Anchor2S = point(444m, 0m); Anchor1S = point(724m, -4m)};
+g1002 = glyphid(5) {Anchor3S = point(256m, 416m); Anchor2S = point(253m, 0m); Anchor1S = point(252m, 0m)};
+g1004 = glyphid(6) {Anchor3S = point(229m, 416m); Anchor2S = point(222m, 0m); Anchor1S = point(222m, 0m)};
+g1010 = glyphid(7) {Anchor3S = point(650m, 416m); Anchor2S = point(446m, 0m); Anchor1S = point(686m, 0m)};
+g1011 = glyphid(8) {Anchor3S = point(648m, 416m); Anchor2S = point(446m, 0m); Anchor1S = point(648m, 0m)};
+g1012 = glyphid(9) {Anchor3S = point(255m, 416m); Anchor2S = point(259m, 0m); Anchor1S = point(260m, 0m)};
+g1015 = glyphid(10) {Anchor3S = point(280m, 416m); Anchor0S = point(451m, 0m); Anchor2S = point(282m, 0m); Anchor1S = point(282m, 0m)};
+g1017 = glyphid(11) {Anchor3S = point(250m, 416m); Anchor2S = point(260m, 0m); Anchor1S = point(259m, 0m)};
+g1019 = glyphid(12) {Anchor3S = point(272m, 416m); Anchor0S = point(420m, 0m); Anchor2S = point(259m, 0m); Anchor1S = point(259m, 0m)};
+g101a = glyphid(13) {Anchor3S = point(621m, 416m); Anchor2S = point(451m, 0m); Anchor1S = point(645m, 0m)};
+g101c = glyphid(14) {Anchor3S = point(655m, 416m); Anchor2S = point(446m, 0m); Anchor1S = point(648m, 0m)};
+g101d = glyphid(15) {Anchor3S = point(255m, 416m); Anchor2S = point(256m, 0m); Anchor1S = point(255m, 0m)};
+g1022 = glyphid(16) {Anchor3S = point(832m, 416m); Anchor2S = point(544m, 0m); Anchor1S = point(895m, 0m)};
+g102d = glyphid(17) {Anchor3M = point(-246m, 394m)};
+g102e = glyphid(18) {Anchor3M = point(-248m, 394m)};
+g102f = glyphid(19) {Anchor1M = point(-163m, 0m)};
+g1030 = glyphid(20) {Anchor1M = point(-208m, 0m)};
 g1031 = glyphid(21);
-g1036 = glyphid(22) {Anchor-3M = point(-154m, 442m)};
+g1036 = glyphid(22) {Anchor3M = point(-154m, 442m)};
 g1039 = glyphid(23);
-g103a = glyphid(24) {Anchor-3M = point(-150m, 394m)};
-g103b = glyphid(25) {Anchor-0M = point(-52m, 10m)};
+g103a = glyphid(24) {Anchor3M = point(-150m, 394m)};
+g103b = glyphid(25) {Anchor0M = point(-52m, 10m)};
 g103c = glyphid(26);
-g103d = glyphid(27) {Anchor-1M = point(-192m, 0m)};
+g103d = glyphid(27) {Anchor1M = point(-192m, 0m)};
 g1040 = glyphid(28);
 g1041 = glyphid(29);
 g1042 = glyphid(30);
@@ -43,96 +43,142 @@ g1048 = glyphid(36);
 g1049 = glyphid(37);
 g104a = glyphid(38);
 g104b = glyphid(39);
-g105e = glyphid(40) {Anchor-1M = point(-240m, 0m)};
-g1075 = glyphid(41) {Anchor-2S = point(322m, 0m); Anchor-1S = point(527m, 0m); Anchor-3S = point(462m, 416m); Anchor-0S = point(619m, 0m)};
-g1078 = glyphid(42) {Anchor-2S = point(427m, 0m); Anchor-1S = point(640m, 0m); Anchor-3S = point(633m, 416m); Anchor-0S = point(772m, 0m)};
-g107a = glyphid(43) {Anchor-2S = point(494m, 0m); Anchor-1S = point(760m, 0m); Anchor-3S = point(698m, 416m)};
+g105e = glyphid(40) {Anchor1M = point(-240m, 0m)};
+g1075 = glyphid(41) {Anchor3S = point(462m, 416m); Anchor0S = point(619m, 0m); Anchor2S = point(322m, 0m); Anchor1S = point(527m, 0m)};
+g1078 = glyphid(42) {Anchor3S = point(633m, 416m); Anchor0S = point(772m, 0m); Anchor2S = point(427m, 0m); Anchor1S = point(640m, 0m)};
+g107a = glyphid(43) {Anchor3S = point(698m, 416m); Anchor2S = point(494m, 0m); Anchor1S = point(760m, 0m)};
 g1083 = glyphid(44);
 g1092 = glyphid(45);
 g109c = glyphid(46);
-g109d = glyphid(47) {Anchor-3M = point(-243m, 394m)};
+g109d = glyphid(47) {Anchor3M = point(-243m, 394m)};
 g200b = glyphid(48);
 g25cc = glyphid(49);
-gaa61 = glyphid(50) {Anchor-2S = point(504m, 0m); Anchor-1S = point(715m, 0m); Anchor-3S = point(732m, 416m); Anchor-0S = point(859m, 0m)};
-gaa62 = glyphid(51) {Anchor-2S = point(446m, 0m); Anchor-1S = point(645m, 0m); Anchor-3S = point(657m, 416m); Anchor-0S = point(780m, 0m)};
-gaa6b = glyphid(52) {Anchor-2S = point(295m, 0m); Anchor-1S = point(385m, 0m); Anchor-3S = point(297m, 416m)};
-gaa6d = glyphid(53) {Anchor-2S = point(336m, 0m); Anchor-1S = point(504m, 0m); Anchor-3S = point(433m, 416m)};
-gaa70 = glyphid(54) {Anchor-3M = point(144m, 394m)};
+gaa61 = glyphid(50) {Anchor3S = point(732m, 416m); Anchor0S = point(859m, 0m); Anchor2S = point(504m, 0m); Anchor1S = point(715m, 0m)};
+gaa62 = glyphid(51) {Anchor3S = point(657m, 416m); Anchor0S = point(780m, 0m); Anchor2S = point(446m, 0m); Anchor1S = point(645m, 0m)};
+gaa6b = glyphid(52) {Anchor3S = point(297m, 416m); Anchor2S = point(295m, 0m); Anchor1S = point(385m, 0m)};
+gaa6d = glyphid(53) {Anchor3S = point(433m, 416m); Anchor2S = point(336m, 0m); Anchor1S = point(504m, 0m)};
+gaa70 = glyphid(54) {Anchor3M = point(144m, 394m)};
 gaa77 = glyphid(55);
 gaa78 = glyphid(56);
-gaa79 = glyphid(57) {Anchor-3S = point(253m, 416m)};
-gaa7a = glyphid(58) {Anchor-1S = point(780m, 0m); Anchor-3S = point(842m, 452m)};
-g1000_sub = glyphid(59) {Anchor-2M = point(-450m, 0m)};
-g1010_sub = glyphid(60) {Anchor-2M = point(-463m, 0m)};
-gaa61_sub = glyphid(61) {Anchor-2M = point(-432m, 0m)};
-g1015_sub = glyphid(62) {Anchor-2M = point(-268m, 0m)};
-g101c_sub = glyphid(63) {Anchor-2M = point(-446m, 0m)};
-g101a_sub = glyphid(64) {Anchor-2M = point(-470m, 0m)};
-g1011_sub = glyphid(65) {Anchor-2M = point(-458m, 0m)};
-gaa62_sub = glyphid(66) {Anchor-2M = point(477m, 0m)};
-g1075_sub = glyphid(67) {Anchor-2M = point(423m, 0m)};
+gaa79 = glyphid(57) {Anchor3S = point(253m, 416m)};
+gaa7a = glyphid(58) {Anchor3S = point(842m, 452m); Anchor1S = point(780m, 0m)};
+g1000_sub = glyphid(59) {Anchor2M = point(-450m, 0m)};
+g1010_sub = glyphid(60) {Anchor2M = point(-463m, 0m)};
+gaa61_sub = glyphid(61) {Anchor2M = point(-432m, 0m)};
+g1015_sub = glyphid(62) {Anchor2M = point(-268m, 0m)};
+g101c_sub = glyphid(63) {Anchor2M = point(-446m, 0m)};
+g101a_sub = glyphid(64) {Anchor2M = point(-470m, 0m)};
+g1011_sub = glyphid(65) {Anchor2M = point(-458m, 0m)};
+gaa62_sub = glyphid(66) {Anchor2M = point(477m, 0m)};
+g1075_sub = glyphid(67) {Anchor2M = point(423m, 0m)};
 g103c_dia = glyphid(68);
 g103c_nar = glyphid(69);
 g103c_nar_dia = glyphid(70);
 gaa77_alt = glyphid(71);
-g103c_sub_old1 = glyphid(72) {Anchor-1M = point(-208m, 0m)};
-g103c_sub_old2 = glyphid(73) {Anchor-1M = point(-181m, 0m)};
-g103a_1036 = glyphid(74) {Anchor-3S = point(-196m, 416m)};
+g103c_sub_old1 = glyphid(72) {Anchor1M = point(-208m, 0m)};
+g103c_sub_old2 = glyphid(73) {Anchor1M = point(-181m, 0m)};
+g103a_1036 = glyphid(74) {Anchor3S = point(-196m, 416m)};
 g1083_103a = glyphid(75);
 g_guard = glyphid(76);
 
 /* Classes */
-cTakesAnchor-0Dia = (g1000, g1015, g1019, g1075, g1078, gaa61, gaa62);
+cTakesAnchor0Dia = (g1000, g1015, g1019, g1075, g1078, gaa61, gaa62);
 
-cnTakesAnchor-0Dia = (g102d, g102e, g102f, g1030, g1036, g103a, g103b, g103d,
-    g105e, g109d, gaa70, g1000_sub, g1010_sub, gaa61_sub, g1015_sub, g101c_sub,
-    g101a_sub, g1011_sub, gaa62_sub, g1075_sub, g103c_sub_old1, g103c_sub_old2);
+cnTakesAnchor0Dia = (g__null, g_nonmarkingreturn, g_space, g1002, g1004, g1010, g1011, g1012,
+    g1017, g101a, g101c, g101d, g1022, g102d, g102e, g102f,
+    g1030, g1031, g1036, g1039, g103a, g103b, g103c, g103d,
+    g1040, g1041, g1042, g1043, g1044, g1045, g1046, g1047,
+    g1048, g1049, g104a, g104b, g105e, g107a, g1083, g1092,
+    g109c, g109d, g200b, g25cc, gaa6b, gaa6d, gaa70, gaa77,
+    gaa78, gaa79, gaa7a, g1000_sub, g1010_sub, gaa61_sub, g1015_sub, g101c_sub,
+    g101a_sub, g1011_sub, gaa62_sub, g1075_sub, g103c_dia, g103c_nar, g103c_nar_dia, gaa77_alt,
+    g103c_sub_old1, g103c_sub_old2, g103a_1036, g1083_103a, g_guard);
 
-cTakesAnchor-1Dia = (g1000, g1002, g1004, g1010, g1011, g1012, g1015, g1017,
+cTakesAnchor1Dia = (g1000, g1002, g1004, g1010, g1011, g1012, g1015, g1017,
     g1019, g101a, g101c, g101d, g1022, g1075, g1078, g107a,
     gaa61, gaa62, gaa6b, gaa6d, gaa7a);
 
-cnTakesAnchor-1Dia = (g102d, g102e, g102f, g1030, g1036, g103a, g103b, g103d,
-    g105e, g109d, gaa70, g1000_sub, g1010_sub, gaa61_sub, g1015_sub, g101c_sub,
-    g101a_sub, g1011_sub, gaa62_sub, g1075_sub, g103c_sub_old1, g103c_sub_old2);
+cnTakesAnchor1Dia = (g__null, g_nonmarkingreturn, g_space, g102d, g102e, g102f, g1030, g1031,
+    g1036, g1039, g103a, g103b, g103c, g103d, g1040, g1041,
+    g1042, g1043, g1044, g1045, g1046, g1047, g1048, g1049,
+    g104a, g104b, g105e, g1083, g1092, g109c, g109d, g200b,
+    g25cc, gaa70, gaa77, gaa78, gaa79, g1000_sub, g1010_sub, gaa61_sub,
+    g1015_sub, g101c_sub, g101a_sub, g1011_sub, gaa62_sub, g1075_sub, g103c_dia, g103c_nar,
+    g103c_nar_dia, gaa77_alt, g103c_sub_old1, g103c_sub_old2, g103a_1036, g1083_103a, g_guard);
 
-cTakesAnchor-2Dia = (g1000, g1002, g1004, g1010, g1011, g1012, g1015, g1017,
+cTakesAnchor2Dia = (g1000, g1002, g1004, g1010, g1011, g1012, g1015, g1017,
     g1019, g101a, g101c, g101d, g1022, g1075, g1078, g107a,
     gaa61, gaa62, gaa6b, gaa6d);
 
-cnTakesAnchor-2Dia = (g102d, g102e, g102f, g1030, g1036, g103a, g103b, g103d,
-    g105e, g109d, gaa70, g1000_sub, g1010_sub, gaa61_sub, g1015_sub, g101c_sub,
-    g101a_sub, g1011_sub, gaa62_sub, g1075_sub, g103c_sub_old1, g103c_sub_old2);
+cnTakesAnchor2Dia = (g__null, g_nonmarkingreturn, g_space, g102d, g102e, g102f, g1030, g1031,
+    g1036, g1039, g103a, g103b, g103c, g103d, g1040, g1041,
+    g1042, g1043, g1044, g1045, g1046, g1047, g1048, g1049,
+    g104a, g104b, g105e, g1083, g1092, g109c, g109d, g200b,
+    g25cc, gaa70, gaa77, gaa78, gaa79, gaa7a, g1000_sub, g1010_sub,
+    gaa61_sub, g1015_sub, g101c_sub, g101a_sub, g1011_sub, gaa62_sub, g1075_sub, g103c_dia,
+    g103c_nar, g103c_nar_dia, gaa77_alt, g103c_sub_old1, g103c_sub_old2, g103a_1036, g1083_103a, g_guard);
 
-cTakesAnchor-3Dia = (g1000, g1002, g1004, g1010, g1011, g1012, g1015, g1017,
+cTakesAnchor3Dia = (g1000, g1002, g1004, g1010, g1011, g1012, g1015, g1017,
     g1019, g101a, g101c, g101d, g1022, g1075, g1078, g107a,
     gaa61, gaa62, gaa6b, gaa6d, gaa79, gaa7a, g103a_1036);
 
-cnTakesAnchor-3Dia = (g102d, g102e, g102f, g1030, g1036, g103a, g103b, g103d,
-    g105e, g109d, gaa70, g1000_sub, g1010_sub, gaa61_sub, g1015_sub, g101c_sub,
-    g101a_sub, g1011_sub, gaa62_sub, g1075_sub, g103c_sub_old1, g103c_sub_old2);
+cnTakesAnchor3Dia = (g__null, g_nonmarkingreturn, g_space, g102d, g102e, g102f, g1030, g1031,
+    g1036, g1039, g103a, g103b, g103c, g103d, g1040, g1041,
+    g1042, g1043, g1044, g1045, g1046, g1047, g1048, g1049,
+    g104a, g104b, g105e, g1083, g1092, g109c, g109d, g200b,
+    g25cc, gaa70, gaa77, gaa78, g1000_sub, g1010_sub, gaa61_sub, g1015_sub,
+    g101c_sub, g101a_sub, g1011_sub, gaa62_sub, g1075_sub, g103c_dia, g103c_nar, g103c_nar_dia,
+    gaa77_alt, g103c_sub_old1, g103c_sub_old2, g1083_103a, g_guard);
 
-cAnchor-0Dia = (g103b);
+cAnchor0Dia = (g103b);
 
-cnAnchor-0Dia = (g102d, g102e, g102f, g1030, g1036, g103a, g103d, g105e,
-    g109d, gaa70, g1000_sub, g1010_sub, gaa61_sub, g1015_sub, g101c_sub, g101a_sub,
-    g1011_sub, gaa62_sub, g1075_sub, g103c_sub_old1, g103c_sub_old2);
+cnAnchor0Dia = (g__null, g_nonmarkingreturn, g_space, g1000, g1002, g1004, g1010, g1011,
+    g1012, g1015, g1017, g1019, g101a, g101c, g101d, g1022,
+    g102d, g102e, g102f, g1030, g1031, g1036, g1039, g103a,
+    g103c, g103d, g1040, g1041, g1042, g1043, g1044, g1045,
+    g1046, g1047, g1048, g1049, g104a, g104b, g105e, g1075,
+    g1078, g107a, g1083, g1092, g109c, g109d, g200b, g25cc,
+    gaa61, gaa62, gaa6b, gaa6d, gaa70, gaa77, gaa78, gaa79,
+    gaa7a, g1000_sub, g1010_sub, gaa61_sub, g1015_sub, g101c_sub, g101a_sub, g1011_sub,
+    gaa62_sub, g1075_sub, g103c_dia, g103c_nar, g103c_nar_dia, gaa77_alt, g103c_sub_old1, g103c_sub_old2,
+    g103a_1036, g1083_103a, g_guard);
 
-cAnchor-1Dia = (g102f, g1030, g103d, g105e, g103c_sub_old1, g103c_sub_old2);
+cAnchor1Dia = (g102f, g1030, g103d, g105e, g103c_sub_old1, g103c_sub_old2);
 
-cnAnchor-1Dia = (g102d, g102e, g1036, g103a, g103b, g109d, gaa70, g1000_sub,
-    g1010_sub, gaa61_sub, g1015_sub, g101c_sub, g101a_sub, g1011_sub, gaa62_sub, g1075_sub);
+cnAnchor1Dia = (g__null, g_nonmarkingreturn, g_space, g1000, g1002, g1004, g1010, g1011,
+    g1012, g1015, g1017, g1019, g101a, g101c, g101d, g1022,
+    g102d, g102e, g1031, g1036, g1039, g103a, g103b, g103c,
+    g1040, g1041, g1042, g1043, g1044, g1045, g1046, g1047,
+    g1048, g1049, g104a, g104b, g1075, g1078, g107a, g1083,
+    g1092, g109c, g109d, g200b, g25cc, gaa61, gaa62, gaa6b,
+    gaa6d, gaa70, gaa77, gaa78, gaa79, gaa7a, g1000_sub, g1010_sub,
+    gaa61_sub, g1015_sub, g101c_sub, g101a_sub, g1011_sub, gaa62_sub, g1075_sub, g103c_dia,
+    g103c_nar, g103c_nar_dia, gaa77_alt, g103a_1036, g1083_103a, g_guard);
 
-cAnchor-2Dia = (g1000_sub, g1010_sub, gaa61_sub, g1015_sub, g101c_sub, g101a_sub, g1011_sub, gaa62_sub,
+cAnchor2Dia = (g1000_sub, g1010_sub, gaa61_sub, g1015_sub, g101c_sub, g101a_sub, g1011_sub, gaa62_sub,
     g1075_sub);
 
-cnAnchor-2Dia = (g102d, g102e, g102f, g1030, g1036, g103a, g103b, g103d,
-    g105e, g109d, gaa70, g103c_sub_old1, g103c_sub_old2);
+cnAnchor2Dia = (g__null, g_nonmarkingreturn, g_space, g1000, g1002, g1004, g1010, g1011,
+    g1012, g1015, g1017, g1019, g101a, g101c, g101d, g1022,
+    g102d, g102e, g102f, g1030, g1031, g1036, g1039, g103a,
+    g103b, g103c, g103d, g1040, g1041, g1042, g1043, g1044,
+    g1045, g1046, g1047, g1048, g1049, g104a, g104b, g105e,
+    g1075, g1078, g107a, g1083, g1092, g109c, g109d, g200b,
+    g25cc, gaa61, gaa62, gaa6b, gaa6d, gaa70, gaa77, gaa78,
+    gaa79, gaa7a, g103c_dia, g103c_nar, g103c_nar_dia, gaa77_alt, g103c_sub_old1, g103c_sub_old2,
+    g103a_1036, g1083_103a, g_guard);
 
-cAnchor-3Dia = (g102d, g102e, g1036, g103a, g109d, gaa70);
+cAnchor3Dia = (g102d, g102e, g1036, g103a, g109d, gaa70);
 
-cnAnchor-3Dia = (g102f, g1030, g103b, g103d, g105e, g1000_sub, g1010_sub, gaa61_sub,
-    g1015_sub, g101c_sub, g101a_sub, g1011_sub, gaa62_sub, g1075_sub, g103c_sub_old1, g103c_sub_old2);
+cnAnchor3Dia = (g__null, g_nonmarkingreturn, g_space, g1000, g1002, g1004, g1010, g1011,
+    g1012, g1015, g1017, g1019, g101a, g101c, g101d, g1022,
+    g102f, g1030, g1031, g1039, g103b, g103c, g103d, g1040,
+    g1041, g1042, g1043, g1044, g1045, g1046, g1047, g1048,
+    g1049, g104a, g104b, g105e, g1075, g1078, g107a, g1083,
+    g1092, g109c, g200b, g25cc, gaa61, gaa62, gaa6b, gaa6d,
+    gaa77, gaa78, gaa79, gaa7a, g1000_sub, g1010_sub, gaa61_sub, g1015_sub,
+    g101c_sub, g101a_sub, g1011_sub, gaa62_sub, g1075_sub, g103c_dia, g103c_nar, g103c_nar_dia,
+    gaa77_alt, g103c_sub_old1, g103c_sub_old2, g103a_1036, g1083_103a, g_guard);
 
 calt = (gaa77_alt);
 
@@ -171,10 +217,10 @@ endtable;
 
 table(positioning);
 pass(1);
-cTakesAnchor-2Dia cAnchor-2Dia {attach {to = @1; at = Anchor-2S; with = Anchor-2M}; user1 = 1} / ^ _ opt4(cnTakesAnchor-2Dia) _ {user1 == 0};
-cTakesAnchor-3Dia cAnchor-3Dia {attach {to = @1; at = Anchor-3S; with = Anchor-3M}; user1 = 1} / ^ _ opt4(cnTakesAnchor-3Dia) _ {user1 == 0};
-cTakesAnchor-1Dia cAnchor-1Dia {attach {to = @1; at = Anchor-1S; with = Anchor-1M}; user1 = 1} / ^ _ opt4(cnTakesAnchor-1Dia) _ {user1 == 0};
-cTakesAnchor-0Dia cAnchor-0Dia {attach {to = @1; at = Anchor-0S; with = Anchor-0M}; user1 = 1} / ^ _ opt4(cnTakesAnchor-0Dia) _ {user1 == 0};
+cTakesAnchor0Dia cAnchor0Dia {attach {to = @1; at = Anchor0S; with = Anchor0M}; user1 = 1} / ^ _ opt4(cnTakesAnchor0Dia) _ {user1 == 0};
+cTakesAnchor3Dia cAnchor3Dia {attach {to = @1; at = Anchor3S; with = Anchor3M}; user1 = 1} / ^ _ opt4(cnTakesAnchor3Dia) _ {user1 == 0};
+cTakesAnchor2Dia cAnchor2Dia {attach {to = @1; at = Anchor2S; with = Anchor2M}; user1 = 1} / ^ _ opt4(cnTakesAnchor2Dia) _ {user1 == 0};
+cTakesAnchor1Dia cAnchor1Dia {attach {to = @1; at = Anchor1S; with = Anchor1M}; user1 = 1} / ^ _ opt4(cnTakesAnchor1Dia) _ {user1 == 0};
 endpass;
 endtable;
 

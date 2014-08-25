@@ -316,7 +316,7 @@ WinInfo: 0 16 8
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 396361 198180 132120 0 1048576 132120 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "Anchor-0"  "Mark to base attachment lookup 0 subtable" "Anchor-1"  "Mark to base attachment lookup 0 subtable" "Anchor-2"  "Mark to base attachment lookup 0 subtable" "Anchor-3"  "Mark to base attachment lookup 0 subtable" 
+AnchorClass2: "Anchor0"  "Mark to base attachment lookup 0 subtable" "Anchor1"  "Mark to base attachment lookup 0 subtable" "Anchor2"  "Mark to base attachment lookup 0 subtable" "Anchor3"  "Mark to base attachment lookup 0 subtable" 
 BeginChars: 65557 77
 
 StartChar: .notdef
@@ -410,10 +410,10 @@ Width: 916
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 643.2 416.4 basechar 0
-AnchorPoint: "Anchor-2" 444 0 basechar 0
-AnchorPoint: "Anchor-1" 724.2 -4.7998 basechar 0
-AnchorPoint: "Anchor-0" 787.8 0 basechar 0
+AnchorPoint: "Anchor3" 643.2 416.4 basechar 0
+AnchorPoint: "Anchor2" 444 0 basechar 0
+AnchorPoint: "Anchor1" 724.2 -4.7998 basechar 0
+AnchorPoint: "Anchor0" 787.8 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -499,9 +499,9 @@ Width: 403
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 229.2 416.4 basechar 0
-AnchorPoint: "Anchor-2" 222 0 basechar 0
-AnchorPoint: "Anchor-1" 222 0 basechar 0
+AnchorPoint: "Anchor3" 229.2 416.4 basechar 0
+AnchorPoint: "Anchor2" 222 0 basechar 0
+AnchorPoint: "Anchor1" 222 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -556,9 +556,9 @@ Width: 898
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 650.4 416.4 basechar 0
-AnchorPoint: "Anchor-2" 446.4 0 basechar 0
-AnchorPoint: "Anchor-1" 686.4 0 basechar 0
+AnchorPoint: "Anchor3" 650.4 416.4 basechar 0
+AnchorPoint: "Anchor2" 446.4 0 basechar 0
+AnchorPoint: "Anchor1" 686.4 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -641,9 +641,9 @@ Width: 898
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 648 416.4 basechar 0
-AnchorPoint: "Anchor-2" 446.4 0 basechar 0
-AnchorPoint: "Anchor-1" 648 0 basechar 0
+AnchorPoint: "Anchor3" 648 416.4 basechar 0
+AnchorPoint: "Anchor2" 446.4 0 basechar 0
+AnchorPoint: "Anchor1" 648 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -709,10 +709,10 @@ Width: 556
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 280.8 416.4 basechar 0
-AnchorPoint: "Anchor-2" 282.6 0 basechar 0
-AnchorPoint: "Anchor-1" 282.6 0 basechar 0
-AnchorPoint: "Anchor-0" 451.8 0 basechar 0
+AnchorPoint: "Anchor3" 280.8 416.4 basechar 0
+AnchorPoint: "Anchor2" 282.6 0 basechar 0
+AnchorPoint: "Anchor1" 282.6 0 basechar 0
+AnchorPoint: "Anchor0" 451.8 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -785,9 +785,9 @@ Width: 898
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 621.6 416.4 basechar 0
-AnchorPoint: "Anchor-2" 451.2 0 basechar 0
-AnchorPoint: "Anchor-1" 645.6 0 basechar 0
+AnchorPoint: "Anchor3" 621.6 416.4 basechar 0
+AnchorPoint: "Anchor2" 451.2 0 basechar 0
+AnchorPoint: "Anchor1" 645.6 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -878,9 +878,9 @@ Width: 898
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 655.2 416.4 basechar 0
-AnchorPoint: "Anchor-2" 446.4 0 basechar 0
-AnchorPoint: "Anchor-1" 648 0 basechar 0
+AnchorPoint: "Anchor3" 655.2 416.4 basechar 0
+AnchorPoint: "Anchor2" 446.4 0 basechar 0
+AnchorPoint: "Anchor1" 648 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -962,9 +962,9 @@ Width: 506
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 255.6 416.4 basechar 0
-AnchorPoint: "Anchor-2" 256.8 0 basechar 0
-AnchorPoint: "Anchor-1" 255.6 0 basechar 0
+AnchorPoint: "Anchor3" 255.6 416.4 basechar 0
+AnchorPoint: "Anchor2" 256.8 0 basechar 0
+AnchorPoint: "Anchor1" 255.6 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1017,9 +1017,9 @@ Width: 1080
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 832.8 416.4 basechar 0
-AnchorPoint: "Anchor-2" 544.8 0 basechar 0
-AnchorPoint: "Anchor-1" 895.2 0 basechar 0
+AnchorPoint: "Anchor3" 832.8 416.4 basechar 0
+AnchorPoint: "Anchor2" 544.8 0 basechar 0
+AnchorPoint: "Anchor1" 895.2 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1120,7 +1120,7 @@ Width: 0
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-3" -246.6 394.2 mark 0
+AnchorPoint: "Anchor3" -246.6 394.2 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1157,7 +1157,7 @@ Width: 0
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-3" -248.4 394.2 mark 0
+AnchorPoint: "Anchor3" -248.4 394.2 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1206,7 +1206,7 @@ Width: 0
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-1" -163.2 0 mark 0
+AnchorPoint: "Anchor1" -163.2 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1239,7 +1239,7 @@ Width: 0
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-1" -208.8 0 mark 0
+AnchorPoint: "Anchor1" -208.8 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1336,7 +1336,7 @@ Width: 19
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-3" -154.8 442.2 mark 0
+AnchorPoint: "Anchor3" -154.8 442.2 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1381,7 +1381,7 @@ Width: 22
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-3" -150 394.2 mark 0
+AnchorPoint: "Anchor3" -150 394.2 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1444,7 +1444,7 @@ Width: 109
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-0" -52.2002 10.7998 mark 0
+AnchorPoint: "Anchor0" -52.2002 10.7998 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1621,7 +1621,7 @@ Width: 0
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-1" -192 0 mark 0
+AnchorPoint: "Anchor1" -192 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1662,7 +1662,7 @@ Width: 19
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-1" -240 0 mark 0
+AnchorPoint: "Anchor1" -240 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1744,10 +1744,10 @@ Width: 705
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 462 416.4 basechar 0
-AnchorPoint: "Anchor-2" 322.2 0 basechar 0
-AnchorPoint: "Anchor-1" 527.4 0 basechar 0
-AnchorPoint: "Anchor-0" 619.8 0 basechar 0
+AnchorPoint: "Anchor3" 462 416.4 basechar 0
+AnchorPoint: "Anchor2" 322.2 0 basechar 0
+AnchorPoint: "Anchor1" 527.4 0 basechar 0
+AnchorPoint: "Anchor0" 619.8 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1848,10 +1848,10 @@ Width: 898
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 633.6 416.4 basechar 0
-AnchorPoint: "Anchor-2" 427.2 0 basechar 0
-AnchorPoint: "Anchor-1" 640.8 0 basechar 0
-AnchorPoint: "Anchor-0" 772.8 0 basechar 0
+AnchorPoint: "Anchor3" 633.6 416.4 basechar 0
+AnchorPoint: "Anchor2" 427.2 0 basechar 0
+AnchorPoint: "Anchor1" 640.8 0 basechar 0
+AnchorPoint: "Anchor0" 772.8 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1972,9 +1972,9 @@ Width: 930
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 698.4 416.4 basechar 0
-AnchorPoint: "Anchor-2" 494.4 0 basechar 0
-AnchorPoint: "Anchor-1" 760.8 0 basechar 0
+AnchorPoint: "Anchor3" 698.4 416.4 basechar 0
+AnchorPoint: "Anchor2" 494.4 0 basechar 0
+AnchorPoint: "Anchor1" 760.8 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2283,7 +2283,7 @@ Width: 4
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-3" -243 394.2 mark 0
+AnchorPoint: "Anchor3" -243 394.2 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2343,10 +2343,10 @@ Width: 953
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 732 416.4 basechar 0
-AnchorPoint: "Anchor-2" 504 0 basechar 0
-AnchorPoint: "Anchor-1" 715.2 0 basechar 0
-AnchorPoint: "Anchor-0" 859.8 0 basechar 0
+AnchorPoint: "Anchor3" 732 416.4 basechar 0
+AnchorPoint: "Anchor2" 504 0 basechar 0
+AnchorPoint: "Anchor1" 715.2 0 basechar 0
+AnchorPoint: "Anchor0" 859.8 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2487,10 +2487,10 @@ Width: 898
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 657.6 416.4 basechar 0
-AnchorPoint: "Anchor-2" 446.4 0 basechar 0
-AnchorPoint: "Anchor-1" 645.6 0 basechar 0
-AnchorPoint: "Anchor-0" 780 0 basechar 0
+AnchorPoint: "Anchor3" 657.6 416.4 basechar 0
+AnchorPoint: "Anchor2" 446.4 0 basechar 0
+AnchorPoint: "Anchor1" 645.6 0 basechar 0
+AnchorPoint: "Anchor0" 780 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2604,9 +2604,9 @@ Width: 567
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 297 416.4 basechar 0
-AnchorPoint: "Anchor-2" 295.2 0 basechar 0
-AnchorPoint: "Anchor-1" 385.2 0 basechar 0
+AnchorPoint: "Anchor3" 297 416.4 basechar 0
+AnchorPoint: "Anchor2" 295.2 0 basechar 0
+AnchorPoint: "Anchor1" 385.2 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2752,9 +2752,9 @@ Width: 669
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 433.8 416.4 basechar 0
-AnchorPoint: "Anchor-2" 336.6 0 basechar 0
-AnchorPoint: "Anchor-1" 504 0 basechar 0
+AnchorPoint: "Anchor3" 433.8 416.4 basechar 0
+AnchorPoint: "Anchor2" 336.6 0 basechar 0
+AnchorPoint: "Anchor1" 504 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3279,7 +3279,7 @@ Width: 506
 VWidth: 600
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-3" 253.8 416.4 basechar 0
+AnchorPoint: "Anchor3" 253.8 416.4 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3343,8 +3343,8 @@ Width: 1017
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 842.4 452.4 basechar 0
-AnchorPoint: "Anchor-1" 780 0 basechar 0
+AnchorPoint: "Anchor3" 842.4 452.4 basechar 0
+AnchorPoint: "Anchor1" 780 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3507,10 +3507,10 @@ Width: 506
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 272.4 416.4 basechar 0
-AnchorPoint: "Anchor-2" 259.2 0 basechar 0
-AnchorPoint: "Anchor-1" 259.2 0 basechar 0
-AnchorPoint: "Anchor-0" 420 0 basechar 0
+AnchorPoint: "Anchor3" 272.4 416.4 basechar 0
+AnchorPoint: "Anchor2" 259.2 0 basechar 0
+AnchorPoint: "Anchor1" 259.2 0 basechar 0
+AnchorPoint: "Anchor0" 420 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3609,7 +3609,7 @@ Width: 1
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-2" -450 0 mark 0
+AnchorPoint: "Anchor2" -450 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3686,7 +3686,7 @@ Width: 1
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-2" -463.2 0 mark 0
+AnchorPoint: "Anchor2" -463.2 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3751,7 +3751,7 @@ Width: 0
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-2" -432 0 mark 0
+AnchorPoint: "Anchor2" -432 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3896,7 +3896,7 @@ Width: 1
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-2" -268.8 0 mark 0
+AnchorPoint: "Anchor2" -268.8 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3954,7 +3954,7 @@ Width: 3
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-2" -446.4 0 mark 0
+AnchorPoint: "Anchor2" -446.4 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4038,7 +4038,7 @@ Width: 4
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-2" -470.4 0 mark 0
+AnchorPoint: "Anchor2" -470.4 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4751,7 +4751,7 @@ Width: 4
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-2" -458.4 0 mark 0
+AnchorPoint: "Anchor2" -458.4 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4816,7 +4816,7 @@ Width: 898
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-2" 477.6 0 mark 0
+AnchorPoint: "Anchor2" 477.6 0 mark 0
 LayerCount: 2
 Fore
 Refer: 30 43618 N 0.807007 0 0 0.772766 110.4 -354 2
@@ -4831,7 +4831,7 @@ Width: 345
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-3" 144 394.2 mark 0
+AnchorPoint: "Anchor3" 144 394.2 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4929,7 +4929,7 @@ Width: 705
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-2" 423 0 mark 0
+AnchorPoint: "Anchor2" 423 0 mark 0
 LayerCount: 2
 Fore
 Refer: 23 4213 N 0.696716 0 0 0.773865 148.8 -349.8 2
@@ -5571,7 +5571,7 @@ Width: 0
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-1" -208.8 0 mark 0
+AnchorPoint: "Anchor1" -208.8 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5626,7 +5626,7 @@ Width: 0
 VWidth: 600
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-1" -181.8 0 mark 0
+AnchorPoint: "Anchor1" -181.8 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5685,9 +5685,9 @@ Width: 506
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 250.2 416.4 basechar 0
-AnchorPoint: "Anchor-2" 260.4 0 basechar 0
-AnchorPoint: "Anchor-1" 259.2 0 basechar 0
+AnchorPoint: "Anchor3" 250.2 416.4 basechar 0
+AnchorPoint: "Anchor2" 260.4 0 basechar 0
+AnchorPoint: "Anchor1" 259.2 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5750,9 +5750,9 @@ Width: 506
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 255.6 416.4 basechar 0
-AnchorPoint: "Anchor-2" 259.2 0 basechar 0
-AnchorPoint: "Anchor-1" 260.4 0 basechar 0
+AnchorPoint: "Anchor3" 255.6 416.4 basechar 0
+AnchorPoint: "Anchor2" 259.2 0 basechar 0
+AnchorPoint: "Anchor1" 260.4 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5829,9 +5829,9 @@ Width: 506
 VWidth: 600
 GlyphClass: 3
 Flags: W
-AnchorPoint: "Anchor-3" 256.8 416.4 basechar 0
-AnchorPoint: "Anchor-2" 253.2 0 basechar 0
-AnchorPoint: "Anchor-1" 252 0 basechar 0
+AnchorPoint: "Anchor3" 256.8 416.4 basechar 0
+AnchorPoint: "Anchor2" 253.2 0 basechar 0
+AnchorPoint: "Anchor1" 252 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5885,7 +5885,7 @@ Width: 22
 VWidth: 600
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-3" -196.2 416.4 basechar 0
+AnchorPoint: "Anchor3" -196.2 416.4 basechar 0
 LayerCount: 2
 Fore
 SplineSet

@@ -1,0 +1,29 @@
+Graphite Compilation Results
+
+GDL file: Aiton_Unicode.gdl
+Input font file: ../AitonUni.ttf
+Output font file: AitonUni.gr.ttf
+Output font family: Aiton Unicode
+Silf table version: 2.0
+Create separate control file: no
+
+*******************************************************
+
+Aiton_Behaviour.gdl(9) : warning(3532): Item 2: deleted slot automatically associated with slot 1
+Aiton_Behaviour.gdl(10) : warning(3532): Item 2: deleted slot automatically associated with slot 1
+Aiton_Behaviour.gdl(11) : warning(3532): Item 1: deleted slot automatically associated with slot 2
+
+*******************************************************
+
+Table versions generated:
+  Silf: 2.0
+  Gloc: 1.0
+  Glat: 1.0
+  Feat: 1.0
+  Sill: 1.0
+
+Minimal compiler version required: 2.0
+
+*******************************************************
+
+Compilation succeeded - 0 errors, 3 warnings (28 warnings ignored)
