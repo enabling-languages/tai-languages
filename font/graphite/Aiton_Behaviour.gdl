@@ -1,5 +1,5 @@
 table(glyph)
-cCons =(g1000 g1075 g1004 gaa61 gaa62 g107a g1010 g1011 gaa6b g1015 g1078 g1019 g101a gaa7a g101c g101d gaa6d  g1022);
+cCons =(g1000 g1075 g1004 gaa61 gaa62 g107a g1010 g1011 gaa6b g1015 g1078 g1019 g101a gaa7a g101c g101d gaa6d g1022 g1012 g1017);
 cNar =(g1075 g1004 gaa6b g1015 g101d gaa6d);
 cUvowel =(g102e g102d g109d);
 endtable;
