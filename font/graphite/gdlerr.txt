@@ -2,7 +2,7 @@ Graphite Compilation Results
 
 GDL file: Aiton_Unicode.gdl
 Input font file: ../AitonUni.ttf
-Output font file: AitonUni.gr.ttf
+Output font file: ../AitonUni.gr.ttf
 Output font family: Aiton Unicode
 Silf table version: 2.0
 Create separate control file: no
