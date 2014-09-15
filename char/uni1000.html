@@ -19,12 +19,19 @@
         src: url('../fonts/AitonUni.gr.woff') format('woff'), /* Modern Browsers */
              url('../fonts/AitonUni.gr.ttf') format('truetype'); /* Safari, Android, iOS */
       }
+      @font-face {
+        font-family: 'Myanmar3h';
+        src: url('../fonts/mm3h.woff') format('woff'), /* Modern Browsers */
+             url('../fonts/mm3h.ttf') format('truetype'); /* Safari, Android, iOS */
+      }
       .glyph-variantions th, .glyph-variantions td {text-align: center;}
       .glyph-variantions td {font-size: 2.0em;}
       .glyph-variantions td:lang(my) {font-family: Padauk;}
+      /* .glyph-variantions td.alt:lang(my) {font-family: Myanmar3h;}  */
       .glyph-variantions td:lang(kht) {font-family: Padauk; -moz-font-language-override: kht; -webkit-font-language-override: kht; font-language-override: kht;}
       .glyph-variantions td:lang(aio) {font-family: "Aiton Unicode"; }
       .glyph-variantions td:lang(phk) {font-family: "Aiton Unicode";}
+      .glyph-variantions td.alt:lang(phk) {font-family: "Aiton Unicode";}
       .note {width: 75%; margin-left: auto; margin-right: auto; font-style: italic; color: #801818;}
     </style>
   </head>
@@ -57,6 +64,7 @@
       <th>Khamti Shan</th>
       <th>Tai Aiton</th>
       <th>Tai Phake</th>
+      <th>Tai Phake<br/>?? style</th>
     </tr>
   </thead>
   <tbody
@@ -65,6 +73,7 @@
       <td lang="kht">&#x1000;</td>
       <td lang="aio">&#x1000;</td>
       <td lang="phk">&#x1000;</td>
+      <td class="alt" lang="phk">&#x1000;</td>
     </tr>
   </tbody>
 </table>
@@ -78,6 +87,7 @@
       <th>Khamti Shan</th>
       <th>Tai Aiton</th>
       <th>Tai Phake</th>
+      <th>Tai Phake<br/>?? style</th>
     </tr>
   </thead>
   <tbody
@@ -86,6 +96,7 @@
       <td lang="kht"> - </td>
       <td lang="aio">&#x1039;&#x1000;</td>
       <td lang="phk">&#x1039;&#x1000;</td>
+      <td class="alt" lang="phk">&#x1039;&#x1000;</td>
     </tr>
   </tbody>
 </table>
