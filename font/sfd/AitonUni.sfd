@@ -6401,14 +6401,15 @@ StartChar: uAA6C.sub
 Encoding: 65557 -1 78
 Width: 898
 VWidth: 600
+GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor2" 477.6 0 mark 0
 LayerCount: 2
 Fore
 Refer: 30 43618 S 0.807007 0 0 0.772766 110.4 -354 2
-Ligature2: "'clig' Contextual Ligatures lookup 3 subtable" u1039 uAA6C
-Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" uAA6C.sub u1031
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" uAA6C.sub u103C
+Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" uAA6C.sub u1031
+Ligature2: "'clig' Contextual Ligatures lookup 3 subtable" u1039 uAA6C
 EndChar
 EndChars
 EndSplineFont
