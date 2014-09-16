@@ -432,5 +432,10 @@
         <location x='276' y='416'/>
     </point>
 </glyph>
+<glyph PSName="uni102C" UID="102C">
+    <point type='_Anchor0'>
+        <location x='0' y='0'/>
+    </point>
+</glyph>
 
 </font>

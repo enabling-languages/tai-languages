@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1257921800
-ModificationTime: 1410839704
+ModificationTime: 1410842242
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -307,18 +307,17 @@ EndShort
 LangName: 1033 "" "" "" "Stephen Morey : Aiton_Unicode : 24-11-2009" 
 GaspTable: 1 65535 2 0
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 16 8
+WinInfo: 4080 16 8
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 396361 198180 132120 0 1048576 132120 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor0"  "Mark to base attachment lookup 0 subtable" "Anchor1"  "Mark to base attachment lookup 0 subtable" "Anchor2"  "Mark to base attachment lookup 0 subtable" "Anchor3"  "Mark to base attachment lookup 0 subtable" 
-BeginChars: 65558 80
+BeginChars: 65558 81
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -1532,6 +1531,7 @@ SplineSet
  -59.4004 -300.6 l 1,0,-1
 EndSplineSet
 Validated: 1
+LCarets2: 1 0 
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" u103B u103C
 Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" u103B u1031
 EndChar
@@ -6511,6 +6511,53 @@ SplineSet
  0 196 l 1,0,-1
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: uni102C
+Encoding: 4140 4140 80
+Width: 349
+VWidth: 1228
+Flags: W
+AnchorPoint: "Anchor0" 0 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-20.4004 400.8 m 5,0,1
+ -16.7998 407.4 -16.7998 407.4 0.599609 418.2 c 5,2,-1
+ 34.2002 426.6 l 5,3,-1
+ 62.4004 432.6 l 5,4,-1
+ 95.4004 435 l 5,5,6
+ 177.6 435 177.6 435 251.4 373.8 c 5,7,8
+ 282 345 282 345 300 305.4 c 5,9,10
+ 308.4 285 308.4 285 312.6 265.2 c 5,11,-1
+ 316.8 221.4 l 5,12,13
+ 316.8 133.2 316.8 133.2 253.8 66.5996 c 4,14,15
+ 238.2 49.7998 238.2 49.7998 220.2 37.2002 c 5,16,-1
+ 187.2 18 l 5,17,-1
+ 163.8 8.40039 l 5,18,-1
+ 152.4 6 l 5,19,-1
+ 140.4 5.40039 l 5,20,-1
+ 118.8 7.7998 l 6,21,22
+ 106.2 9.59961 106.2 9.59961 94.7998 25.2002 c 5,23,24
+ 84.5996 40.7998 84.5996 40.7998 84.5996 63 c 4,25,26
+ 84.5996 91.2002 84.5996 91.2002 108.3 112.2 c 132,-1,27
+ 132 133.2 132 133.2 165.6 133.2 c 4,28,29
+ 190.2 133.2 190.2 133.2 208.2 122.4 c 5,30,31
+ 224.4 111.6 224.4 111.6 230.4 111.6 c 4,32,33
+ 237 111.6 237 111.6 246 122.4 c 132,-1,34
+ 255 133.2 255 133.2 262.2 151.2 c 4,35,36
+ 274.8 181.8 274.8 181.8 274.8 221.4 c 4,37,38
+ 274.8 286.8 274.8 286.8 223.2 343.8 c 5,39,40
+ 171.6 394.2 171.6 394.2 95.4004 394.2 c 5,41,-1
+ 63.5996 393.6 l 5,42,-1
+ 43.2002 394.2 l 6,43,44
+ 32.4004 394.2 32.4004 394.2 18.5996 386.4 c 5,45,-1
+ -2.40039 370.2 l 5,46,-1
+ -15 381.6 l 5,47,-1
+ -16.7998 384.6 l 5,48,-1
+ -21.5996 394.2 l 5,49,-1
+ -20.4004 400.8 l 5,0,1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
