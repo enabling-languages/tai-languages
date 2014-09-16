@@ -402,5 +402,24 @@
 <glyph PSName="u200B" UID="200B"/>
 <glyph PSName="guard"/>
 <glyph PSName="space" UID="0020"/>
+<glyph PSName="uAA6C" UID="AA6C">
+    <point type='Anchor0'>
+        <location x='780' y='0'/>
+    </point>
+    <point type='Anchor1'>
+        <location x='645' y='0'/>
+    </point>
+    <point type='Anchor2'>
+        <location x='446' y='0'/>
+    </point>
+    <point type='Anchor3'>
+        <location x='657' y='416'/>
+    </point>
+</glyph>
+<glyph PSName="uAA6C.sub">
+    <point type='_Anchor2'>
+        <location x='477' y='0'/>
+    </point>
+</glyph>
 
 </font>
