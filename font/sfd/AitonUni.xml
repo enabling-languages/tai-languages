@@ -216,20 +216,6 @@
         <location x='732' y='416'/>
     </point>
 </glyph>
-<glyph PSName="uAA62" UID="AA62">
-    <point type='Anchor0'>
-        <location x='780' y='0'/>
-    </point>
-    <point type='Anchor1'>
-        <location x='645' y='0'/>
-    </point>
-    <point type='Anchor2'>
-        <location x='446' y='0'/>
-    </point>
-    <point type='Anchor3'>
-        <location x='657' y='416'/>
-    </point>
-</glyph>
 <glyph PSName="uAA6B" UID="AA6B">
     <point type='Anchor1'>
         <location x='385' y='0'/>
@@ -326,11 +312,6 @@
 <glyph PSName="u1011.sub">
     <point type='_Anchor2'>
         <location x='-458' y='0'/>
-    </point>
-</glyph>
-<glyph PSName="uAA62.sub">
-    <point type='_Anchor2'>
-        <location x='477' y='0'/>
     </point>
 </glyph>
 <glyph PSName="uAA70" UID="AA70">
