@@ -421,5 +421,16 @@
         <location x='477' y='0'/>
     </point>
 </glyph>
+<glyph PSName="endash" UID="2013">
+    <point type='Anchor1'>
+        <location x='346' y='0'/>
+    </point>
+    <point type='Anchor2'>
+        <location x='274' y='0'/>
+    </point>
+    <point type='Anchor3'>
+        <location x='276' y='416'/>
+    </point>
+</glyph>
 
 </font>
