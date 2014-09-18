@@ -3,8 +3,8 @@
 <!--Created by Ukelele version 2.2.4 on 2014-09-17 at 08:34 (AEST)-->
 <!---->
 <!---->
-<!--Last edited by Ukelele version 2.2.8 on 2014-09-18 at 08:04 (AEST)-->
-<keyboard group="126" id="-15420" name="Aiton" maxout="1">
+<!--Last edited by Ukelele version 2.2.8 on 2014-09-18 at 16:03 (AEST)-->
+<keyboard group="126" id="-15420" name="Aiton" maxout="2">
     <layouts>
         <layout first="0" last="17" modifiers="Modifiers" mapSet="ANSI"/>
         <layout first="18" last="18" modifiers="Modifiers" mapSet="JIS"/>
@@ -76,6 +76,7 @@
             <key code="46" output="မ"/>
             <key code="47" output="။"/>
             <key code="48" output="&#x0009;"/>
+            <key code="50" output="္"/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
             <key code="64" output="&#x0010;"/>
@@ -169,7 +170,14 @@
         </keyMap>
         <keyMap index="2">
             <key code="0" output="ာ"/>
+            <key code="1" output="္ꩢ"/>
+            <key code="9" output="္ထ"/>
+            <key code="16" output="္ယ"/>
+            <key code="17" output="္တ"/>
+            <key code="35" output="္ပ"/>
             <key code="36" output="&#x000D;"/>
+            <key code="37" output="္လ"/>
+            <key code="40" output="္က"/>
             <key code="48" output="&#x0009;"/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
@@ -212,6 +220,7 @@
         <keyMap index="3">
             <key code="0" output=""/>
             <key code="36" output="&#x000D;"/>
+            <key code="40" output=""/>
             <key code="48" output="&#x0009;"/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
@@ -253,7 +262,10 @@
         </keyMap>
         <keyMap index="4">
             <key code="0" output=""/>
+            <key code="5" output=""/>
+            <key code="8" output=""/>
             <key code="36" output="&#x000D;"/>
+            <key code="37" output=""/>
             <key code="48" output="&#x0009;"/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
