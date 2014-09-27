@@ -1,0 +1,7 @@
+h1. Aiton Unicode fonts
+
+*AitonUni.ttf* &ndash; TTF without graphite tables, and incomplete OT tables, generated from ../sfd/AitonUni.sfd
+
+*AitonUni.gr.ttf* &ndash; TTF with graphite tables and incomplete OT tables, compiled from AitonUni.ttf &ndash; under development
+
+*AitonUni.gr.woff* &ndash; WOFF font generated from AitonUni.gr.ttf
