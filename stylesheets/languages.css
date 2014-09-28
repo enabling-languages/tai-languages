@@ -33,6 +33,7 @@
 table {width: auto; margin-left: auto; margin-right: auto;}
 /* td:not([style]) {color:red;} */
 td:not([style]) {font-size: 1.5em; opacity: 0.5 ; color: silver; font-family: Padauk;}
+.propsTable td {font-family: 1.0em; opacity: 1.0; color: black; font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;}
 td.codepoint {
     font-size: 14px; 
     opacity: 1.0; 
