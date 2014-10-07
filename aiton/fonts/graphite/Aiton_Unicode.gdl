@@ -1,5 +1,5 @@
 /*
-    Glyph information for font Aiton Unicode at Tue Sep 16 14:59:59 2014
+    Glyph information for font Aiton Unicode at Tue Oct  7 22:02:07 2014
 */
 
 table(glyph) {MUnits = 1000};
@@ -82,106 +82,62 @@ g103a_1036 = glyphid(75) {Anchor3S = point(-196m, 416m)};
 g1083_103a = glyphid(76);
 g_guard = glyphid(77);
 gaa6c_sub = glyphid(78) {Anchor2M = point(477m, 0m)};
+g103a_103a = glyphid(79) {Anchor3M = point(-150m, 394m)};
 
 /* Classes */
 cTakesAnchor0Dia = (g1000, g1015, g1019, g1075, g1078, gaa61, gaa6c);
 
-cnTakesAnchor0Dia = (g__null, g_nonmarkingreturn, g_space, g1002, g1004, g1010, g1011, g1012,
-    g1017, g101a, g101c, g101d, g1022, g102c, g102d, g102e,
-    g102f, g1030, g1031, g1036, g1039, g103a, g103b, g103c,
-    g103d, g1040, g1041, g1042, g1043, g1044, g1045, g1046,
-    g1047, g1048, g1049, g104a, g104b, g105e, g107a, g1083,
-    g1092, g109c, g109d, g200b, g_endash, g25cc, gaa6b, gaa6d,
-    gaa70, gaa77, gaa78, gaa79, gaa7a, g1000_sub, g1010_sub, gaa61_sub,
-    g1015_sub, g101c_sub, g101a_sub, g1011_sub, g1075_sub, g103c_dia, g103c_nar, g103c_nar_dia,
-    gaa77_alt, g103c_sub_old1, g103c_sub_old2, g103a_1036, g1083_103a, g_guard, gaa6c_sub);
+cnTakesAnchor0Dia = (g102c, g102d, g102e, g102f, g1030, g1036, g103a, g103b,
+    g103d, g105e, g109d, gaa70, g1000_sub, g1010_sub, gaa61_sub, g1015_sub,
+    g101c_sub, g101a_sub, g1011_sub, g1075_sub, g103c_sub_old1, g103c_sub_old2, gaa6c_sub, g103a_103a);
 
 cTakesAnchor1Dia = (g1000, g1002, g1004, g1010, g1011, g1012, g1015, g1017,
     g1019, g101a, g101c, g101d, g1022, g1075, g1078, g107a,
     g_endash, gaa61, gaa6b, gaa6c, gaa6d, gaa7a);
 
-cnTakesAnchor1Dia = (g__null, g_nonmarkingreturn, g_space, g102c, g102d, g102e, g102f, g1030,
-    g1031, g1036, g1039, g103a, g103b, g103c, g103d, g1040,
-    g1041, g1042, g1043, g1044, g1045, g1046, g1047, g1048,
-    g1049, g104a, g104b, g105e, g1083, g1092, g109c, g109d,
-    g200b, g25cc, gaa70, gaa77, gaa78, gaa79, g1000_sub, g1010_sub,
-    gaa61_sub, g1015_sub, g101c_sub, g101a_sub, g1011_sub, g1075_sub, g103c_dia, g103c_nar,
-    g103c_nar_dia, gaa77_alt, g103c_sub_old1, g103c_sub_old2, g103a_1036, g1083_103a, g_guard, gaa6c_sub);
+cnTakesAnchor1Dia = (g102c, g102d, g102e, g102f, g1030, g1036, g103a, g103b,
+    g103d, g105e, g109d, gaa70, g1000_sub, g1010_sub, gaa61_sub, g1015_sub,
+    g101c_sub, g101a_sub, g1011_sub, g1075_sub, g103c_sub_old1, g103c_sub_old2, gaa6c_sub, g103a_103a);
 
 cTakesAnchor2Dia = (g1000, g1002, g1004, g1010, g1011, g1012, g1015, g1017,
     g1019, g101a, g101c, g101d, g1022, g1075, g1078, g107a,
     g_endash, gaa61, gaa6b, gaa6c, gaa6d);
 
-cnTakesAnchor2Dia = (g__null, g_nonmarkingreturn, g_space, g102c, g102d, g102e, g102f, g1030,
-    g1031, g1036, g1039, g103a, g103b, g103c, g103d, g1040,
-    g1041, g1042, g1043, g1044, g1045, g1046, g1047, g1048,
-    g1049, g104a, g104b, g105e, g1083, g1092, g109c, g109d,
-    g200b, g25cc, gaa70, gaa77, gaa78, gaa79, gaa7a, g1000_sub,
-    g1010_sub, gaa61_sub, g1015_sub, g101c_sub, g101a_sub, g1011_sub, g1075_sub, g103c_dia,
-    g103c_nar, g103c_nar_dia, gaa77_alt, g103c_sub_old1, g103c_sub_old2, g103a_1036, g1083_103a, g_guard,
-    gaa6c_sub);
+cnTakesAnchor2Dia = (g102c, g102d, g102e, g102f, g1030, g1036, g103a, g103b,
+    g103d, g105e, g109d, gaa70, g1000_sub, g1010_sub, gaa61_sub, g1015_sub,
+    g101c_sub, g101a_sub, g1011_sub, g1075_sub, g103c_sub_old1, g103c_sub_old2, gaa6c_sub, g103a_103a);
 
 cTakesAnchor3Dia = (g1000, g1002, g1004, g1010, g1011, g1012, g1015, g1017,
     g1019, g101a, g101c, g101d, g1022, g1075, g1078, g107a,
     g_endash, gaa61, gaa6b, gaa6c, gaa6d, gaa79, gaa7a, g103a_1036);
 
-cnTakesAnchor3Dia = (g__null, g_nonmarkingreturn, g_space, g102c, g102d, g102e, g102f, g1030,
-    g1031, g1036, g1039, g103a, g103b, g103c, g103d, g1040,
-    g1041, g1042, g1043, g1044, g1045, g1046, g1047, g1048,
-    g1049, g104a, g104b, g105e, g1083, g1092, g109c, g109d,
-    g200b, g25cc, gaa70, gaa77, gaa78, g1000_sub, g1010_sub, gaa61_sub,
-    g1015_sub, g101c_sub, g101a_sub, g1011_sub, g1075_sub, g103c_dia, g103c_nar, g103c_nar_dia,
-    gaa77_alt, g103c_sub_old1, g103c_sub_old2, g1083_103a, g_guard, gaa6c_sub);
+cnTakesAnchor3Dia = (g102c, g102d, g102e, g102f, g1030, g1036, g103a, g103b,
+    g103d, g105e, g109d, gaa70, g1000_sub, g1010_sub, gaa61_sub, g1015_sub,
+    g101c_sub, g101a_sub, g1011_sub, g1075_sub, g103c_sub_old1, g103c_sub_old2, gaa6c_sub, g103a_103a);
 
 cAnchor0Dia = (g102c, g103b);
 
-cnAnchor0Dia = (g__null, g_nonmarkingreturn, g_space, g1000, g1002, g1004, g1010, g1011,
-    g1012, g1015, g1017, g1019, g101a, g101c, g101d, g1022,
-    g102d, g102e, g102f, g1030, g1031, g1036, g1039, g103a,
-    g103c, g103d, g1040, g1041, g1042, g1043, g1044, g1045,
-    g1046, g1047, g1048, g1049, g104a, g104b, g105e, g1075,
-    g1078, g107a, g1083, g1092, g109c, g109d, g200b, g_endash,
-    g25cc, gaa61, gaa6b, gaa6c, gaa6d, gaa70, gaa77, gaa78,
-    gaa79, gaa7a, g1000_sub, g1010_sub, gaa61_sub, g1015_sub, g101c_sub, g101a_sub,
-    g1011_sub, g1075_sub, g103c_dia, g103c_nar, g103c_nar_dia, gaa77_alt, g103c_sub_old1, g103c_sub_old2,
-    g103a_1036, g1083_103a, g_guard, gaa6c_sub);
+cnAnchor0Dia = (g102d, g102e, g102f, g1030, g1036, g103a, g103d, g105e,
+    g109d, gaa70, g1000_sub, g1010_sub, gaa61_sub, g1015_sub, g101c_sub, g101a_sub,
+    g1011_sub, g1075_sub, g103c_sub_old1, g103c_sub_old2, gaa6c_sub, g103a_103a);
 
 cAnchor1Dia = (g102f, g1030, g103d, g105e, g103c_sub_old1, g103c_sub_old2);
 
-cnAnchor1Dia = (g__null, g_nonmarkingreturn, g_space, g1000, g1002, g1004, g1010, g1011,
-    g1012, g1015, g1017, g1019, g101a, g101c, g101d, g1022,
-    g102c, g102d, g102e, g1031, g1036, g1039, g103a, g103b,
-    g103c, g1040, g1041, g1042, g1043, g1044, g1045, g1046,
-    g1047, g1048, g1049, g104a, g104b, g1075, g1078, g107a,
-    g1083, g1092, g109c, g109d, g200b, g_endash, g25cc, gaa61,
-    gaa6b, gaa6c, gaa6d, gaa70, gaa77, gaa78, gaa79, gaa7a,
+cnAnchor1Dia = (g102c, g102d, g102e, g1036, g103a, g103b, g109d, gaa70,
     g1000_sub, g1010_sub, gaa61_sub, g1015_sub, g101c_sub, g101a_sub, g1011_sub, g1075_sub,
-    g103c_dia, g103c_nar, g103c_nar_dia, gaa77_alt, g103a_1036, g1083_103a, g_guard, gaa6c_sub);
+    gaa6c_sub, g103a_103a);
 
 cAnchor2Dia = (g1000_sub, g1010_sub, gaa61_sub, g1015_sub, g101c_sub, g101a_sub, g1011_sub, g1075_sub,
     gaa6c_sub);
 
-cnAnchor2Dia = (g__null, g_nonmarkingreturn, g_space, g1000, g1002, g1004, g1010, g1011,
-    g1012, g1015, g1017, g1019, g101a, g101c, g101d, g1022,
-    g102c, g102d, g102e, g102f, g1030, g1031, g1036, g1039,
-    g103a, g103b, g103c, g103d, g1040, g1041, g1042, g1043,
-    g1044, g1045, g1046, g1047, g1048, g1049, g104a, g104b,
-    g105e, g1075, g1078, g107a, g1083, g1092, g109c, g109d,
-    g200b, g_endash, g25cc, gaa61, gaa6b, gaa6c, gaa6d, gaa70,
-    gaa77, gaa78, gaa79, gaa7a, g103c_dia, g103c_nar, g103c_nar_dia, gaa77_alt,
-    g103c_sub_old1, g103c_sub_old2, g103a_1036, g1083_103a, g_guard);
+cnAnchor2Dia = (g102c, g102d, g102e, g102f, g1030, g1036, g103a, g103b,
+    g103d, g105e, g109d, gaa70, g103c_sub_old1, g103c_sub_old2, g103a_103a);
 
-cAnchor3Dia = (g102d, g102e, g1036, g103a, g109d, gaa70);
+cAnchor3Dia = (g102d, g102e, g1036, g103a, g109d, gaa70, g103a_103a);
 
-cnAnchor3Dia = (g__null, g_nonmarkingreturn, g_space, g1000, g1002, g1004, g1010, g1011,
-    g1012, g1015, g1017, g1019, g101a, g101c, g101d, g1022,
-    g102c, g102f, g1030, g1031, g1039, g103b, g103c, g103d,
-    g1040, g1041, g1042, g1043, g1044, g1045, g1046, g1047,
-    g1048, g1049, g104a, g104b, g105e, g1075, g1078, g107a,
-    g1083, g1092, g109c, g200b, g_endash, g25cc, gaa61, gaa6b,
-    gaa6c, gaa6d, gaa77, gaa78, gaa79, gaa7a, g1000_sub, g1010_sub,
-    gaa61_sub, g1015_sub, g101c_sub, g101a_sub, g1011_sub, g1075_sub, g103c_dia, g103c_nar,
-    g103c_nar_dia, gaa77_alt, g103c_sub_old1, g103c_sub_old2, g103a_1036, g1083_103a, g_guard, gaa6c_sub);
+cnAnchor3Dia = (g102c, g102f, g1030, g103b, g103d, g105e, g1000_sub, g1010_sub,
+    gaa61_sub, g1015_sub, g101c_sub, g101a_sub, g1011_sub, g1075_sub, g103c_sub_old1, g103c_sub_old2,
+    gaa6c_sub);
 
 calt = (gaa77_alt);
 
@@ -227,6 +183,6 @@ cTakesAnchor1Dia cAnchor1Dia {attach {to = @1; at = Anchor1S; with = Anchor1M}; 
 endpass;
 endtable;
 
-#define MAXGLYPH 78
+#define MAXGLYPH 79
 
 #include "Aiton_Behaviour.gdl"
