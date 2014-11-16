@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1257921800
-ModificationTime: 1411971162
+ModificationTime: 1416141765
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -317,7 +317,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 396361 198180 132120 0 1048576 132120 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor0"  "Mark to base attachment lookup 0 subtable" "Anchor1"  "Mark to base attachment lookup 0 subtable" "Anchor2"  "Mark to base attachment lookup 0 subtable" "Anchor3"  "Mark to base attachment lookup 0 subtable" 
-BeginChars: 80 80
+BeginChars: 81 81
 
 StartChar: .notdef
 Encoding: 58 -1 0
@@ -546,7 +546,7 @@ SplineSet
  373.8 40.7998 l 1,54,-1
  372.6 34.2002 l 1,0,1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 LCarets2: 1 0 
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" u1004 u103C
 Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" u1004 u1031
@@ -633,7 +633,7 @@ SplineSet
  325.8 40.7998 325.8 40.7998 377.4 92.4004 c 128,-1,95
  429 144 429 144 429 219 c 0,61,62
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" u1010 u103C
 Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" u1010 u1031
 MultipleSubs2: "Multiple Substitution lookup 2 subtable" guard u103C u1010
@@ -702,7 +702,7 @@ SplineSet
  181.8 394.2 181.8 394.2 129 341.4 c 0,73,74
  102.6 315 102.6 315 84.5996 266.4 c 1,44,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" u1011 u103C
 Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" u1011 u1031
@@ -875,7 +875,7 @@ SplineSet
  802.2 399.6 802.2 399.6 787.8 410.4 c 1,105,-1
  765.6 430.2 l 1,0,1
 EndSplineSet
-Validated: 1048585
+Validated: 9
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" u101A u103C
 Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" u101A u1031
 MultipleSubs2: "Multiple Substitution lookup 2 subtable" guard u103C u101A
@@ -960,7 +960,7 @@ SplineSet
  755.4 355.8 755.4 355.8 733.2 369 c 1,94,95
  714 382.2 714 382.2 692.4 388.8 c 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" u101C u103C
 Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" u101C u1031
 MultipleSubs2: "Multiple Substitution lookup 2 subtable" guard u103C u101C
@@ -1016,7 +1016,7 @@ SplineSet
  94.2002 285.6 l 1,48,-1
  84.5996 261 l 1,14,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" u101D u103C
 Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" u101D u1031
@@ -1121,7 +1121,7 @@ SplineSet
  981.6 33.5996 981.6 33.5996 958.8 17.4004 c 1,125,126
  940.8 6.59961 940.8 6.59961 908.4 1.2002 c 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" u1022 u103C
 Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" u1022 u1031
 MultipleSubs2: "Multiple Substitution lookup 2 subtable" guard u103C u1022
@@ -2171,7 +2171,7 @@ SplineSet
  428.4 49.7998 l 2,209,210
  454.2 78 454.2 78 466.8 99 c 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" u107A u103C
 Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" u107A u1031
 MultipleSubs2: "Multiple Substitution lookup 2 subtable" guard u103C u107A
@@ -2656,7 +2656,7 @@ SplineSet
  354.6 374.4 354.6 374.4 361.8 384 c 0,160,161
  376.2 401.4 376.2 401.4 383.4 402 c 1,89,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 LCarets2: 1 0 
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" uAA6B u103C
 Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" uAA6B u1031
@@ -2788,7 +2788,7 @@ SplineSet
  36.5996 66.5996 36.5996 66.5996 67.7998 33 c 1,147,-1
  136.2 46.7998 l 1,119,120
 EndSplineSet
-Validated: 1048613
+Validated: 37
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" uAA6D u103C
 Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" uAA6D u1031
 MultipleSubs2: "Multiple Substitution lookup 2 subtable" guard u103C.nar uAA6D
@@ -3257,7 +3257,7 @@ SplineSet
  130.2 142.8 l 1,69,-1
  103.2 127.8 l 1,56,57
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uAA7A
@@ -3417,7 +3417,7 @@ SplineSet
  600.6 -7.7998 l 1,211,-1
  612 45 l 1,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" uAA7A u103C
 Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" uAA7A u1031
 MultipleSubs2: "Multiple Substitution lookup 2 subtable" guard u103C uAA7A
@@ -5677,7 +5677,7 @@ SplineSet
  427.8 267.6 427.8 267.6 406.8 313.2 c 1,66,67
  394.2 347.4 394.2 347.4 348 384.6 c 1,42,43
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" u1017 u103C
 Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" u1017 u1031
 MultipleSubs2: "Multiple Substitution lookup 2 subtable" guard u103C.nar u1017
@@ -5757,7 +5757,7 @@ SplineSet
  436.2 218.4 436.2 218.4 452.7 196.2 c 128,-1,84
  469.2 174 469.2 174 469.2 142.8 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" u1012 u103C
 Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" u1012 u1031
 MultipleSubs2: "Multiple Substitution lookup 2 subtable" guard u103C.nar u1012
@@ -5814,7 +5814,7 @@ SplineSet
  348.6 432.6 348.6 432.6 408.9 372.9 c 128,-1,52
  469.2 313.2 469.2 313.2 469.2 220.2 c 0,0,1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" u1002 u103C
 Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" u1002 u1031
 MultipleSubs2: "Multiple Substitution lookup 2 subtable" guard u103C.nar u1002
@@ -5912,7 +5912,7 @@ SplineSet
  -84 531 l 1,103,-1
  -79.2002 545.4 l 1,85,86
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: u1083_u103A
@@ -6471,7 +6471,7 @@ SplineSet
  465 196 l 1,3,-1
  0 196 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni102C
@@ -6519,7 +6519,7 @@ SplineSet
  -21.5996 394.2 l 5,49,-1
  -20.4004 400.8 l 5,0,1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: u103A_u103A
@@ -6632,7 +6632,91 @@ SplineSet
  27.5996 684.6 27.5996 684.6 36 680.4 c 1,120,121
  55.2002 675 55.2002 675 70.7998 661.2 c 1,61,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
+EndChar
+
+StartChar: u102e_u102e
+Encoding: 80 -1 80
+Width: 0
+VWidth: 600
+Flags: W
+AnchorPoint: "Anchor3" -248.4 394.2 mark 0
+LayerCount: 2
+Fore
+SplineSet
+258.599609375 805.400390625 m 4,0,1
+ 258.599609375 731 258.599609375 731 207 679.099609375 c 132,-1,2
+ 155.400390625 627.200195312 155.400390625 627.200195312 80.400390625 627.200195312 c 4,3,4
+ 13.2001953125 627.200195312 13.2001953125 627.200195312 -41.7001953125 679.700195312 c 132,-1,5
+ -96.599609375 732.200195312 -96.599609375 732.200195312 -96.599609375 805.400390625 c 4,6,7
+ -96.599609375 879.200195312 -96.599609375 879.200195312 -45 930.799804688 c 132,-1,8
+ 6.599609375 982.400390625 6.599609375 982.400390625 80.400390625 982.400390625 c 4,9,10
+ 148.200195312 982.400390625 148.200195312 982.400390625 205.799804688 930.200195312 c 5,11,12
+ 232.200195312 903.799804688 232.200195312 903.799804688 245.400390625 873.200195312 c 5,13,-1
+ 255 840.799804688 l 5,14,15
+ 258.599609375 824.599609375 258.599609375 824.599609375 258.599609375 805.400390625 c 4,0,1
+199.799804688 743 m 5,16,-1
+ 204.599609375 753.799804688 l 5,17,-1
+ 211.799804688 773.599609375 l 5,18,-1
+ 214.799804688 789.799804688 l 5,19,-1
+ 216 805.400390625 l 5,20,21
+ 216 855.799804688 216 855.799804688 176.400390625 897.799804688 c 132,-1,22
+ 136.799804688 939.799804688 136.799804688 939.799804688 80.400390625 939.799804688 c 4,23,24
+ 28.2001953125 939.799804688 28.2001953125 939.799804688 -13.2001953125 900.200195312 c 4,25,26
+ -26.400390625 887 -26.400390625 887 -43.2001953125 857 c 5,27,28
+ -53.400390625 833 -53.400390625 833 -53.400390625 805.400390625 c 4,29,30
+ -53.400390625 774.200195312 -53.400390625 774.200195312 -38.400390625 744.200195312 c 5,31,32
+ -23.400390625 763.400390625 -23.400390625 763.400390625 15.599609375 786.200195312 c 5,33,34
+ 47.400390625 800.599609375 47.400390625 800.599609375 80.400390625 800.599609375 c 5,35,-1
+ 100.200195312 800 l 6,36,37
+ 109.799804688 800 109.799804688 800 117 797.599609375 c 5,38,39
+ 131.400390625 795.799804688 131.400390625 795.799804688 147.599609375 786.799804688 c 5,40,41
+ 177 773 177 773 199.799804688 743 c 5,16,-1
+-20.400390625 717.200195312 m 5,42,43
+ 21 670.400390625 21 670.400390625 80.400390625 670.400390625 c 4,44,45
+ 139.200195312 670.400390625 139.200195312 670.400390625 181.200195312 716 c 5,46,47
+ 145.799804688 770 145.799804688 770 80.400390625 770 c 4,48,49
+ 57.599609375 770 57.599609375 770 51.599609375 767 c 5,50,51
+ 47.400390625 765.799804688 47.400390625 765.799804688 39.900390625 763.099609375 c 132,-1,52
+ 32.400390625 760.400390625 32.400390625 760.400390625 21 755 c 5,53,54
+ -0.599609375 746 -0.599609375 746 -20.400390625 717.200195312 c 5,42,43
+-71.4004 605.4 m 0,55,56
+ -71.4004 531 -71.4004 531 -123 479.1 c 128,-1,57
+ -174.6 427.2 -174.6 427.2 -249.6 427.2 c 0,58,59
+ -316.8 427.2 -316.8 427.2 -371.7 479.7 c 128,-1,60
+ -426.6 532.2 -426.6 532.2 -426.6 605.4 c 0,61,62
+ -426.6 679.2 -426.6 679.2 -375 730.8 c 128,-1,63
+ -323.4 782.4 -323.4 782.4 -249.6 782.4 c 0,64,65
+ -181.8 782.4 -181.8 782.4 -124.2 730.2 c 1,66,67
+ -97.7998 703.8 -97.7998 703.8 -84.5996 673.2 c 1,68,-1
+ -75 640.8 l 1,69,70
+ -71.4004 624.6 -71.4004 624.6 -71.4004 605.4 c 0,55,56
+-130.2 543 m 1,71,-1
+ -125.4 553.8 l 1,72,-1
+ -118.2 573.6 l 1,73,-1
+ -115.2 589.8 l 1,74,-1
+ -114 605.4 l 1,75,76
+ -114 655.8 -114 655.8 -153.6 697.8 c 128,-1,77
+ -193.2 739.8 -193.2 739.8 -249.6 739.8 c 0,78,79
+ -301.8 739.8 -301.8 739.8 -343.2 700.2 c 0,80,81
+ -356.4 687 -356.4 687 -373.2 657 c 1,82,83
+ -383.4 633 -383.4 633 -383.4 605.4 c 0,84,85
+ -383.4 574.2 -383.4 574.2 -368.4 544.2 c 1,86,87
+ -353.4 563.4 -353.4 563.4 -314.4 586.2 c 1,88,89
+ -282.6 600.6 -282.6 600.6 -249.6 600.6 c 1,90,-1
+ -229.8 600 l 2,91,92
+ -220.2 600 -220.2 600 -213 597.6 c 1,93,94
+ -198.6 595.8 -198.6 595.8 -182.4 586.8 c 1,95,96
+ -153 573 -153 573 -130.2 543 c 1,71,-1
+-350.4 517.2 m 1,97,98
+ -309 470.4 -309 470.4 -249.6 470.4 c 0,99,100
+ -190.8 470.4 -190.8 470.4 -148.8 516 c 1,101,102
+ -184.2 570 -184.2 570 -249.6 570 c 0,103,104
+ -272.4 570 -272.4 570 -278.4 567 c 1,105,106
+ -282.6 565.8 -282.6 565.8 -290.1 563.1 c 128,-1,107
+ -297.6 560.4 -297.6 560.4 -309 555 c 1,108,109
+ -330.6 546 -330.6 546 -350.4 517.2 c 1,97,98
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

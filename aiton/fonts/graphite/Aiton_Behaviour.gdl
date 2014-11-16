@@ -1,3 +1,5 @@
+/*  #include "Aiton_Features.gdl"  */
+
 table(glyph)
 cCons =(g1000 g1075 g1004 gaa61 gaa6c g107a g1010 g1011 gaa6b g1015 g1078 g1019 g101a gaa7a g101c g101d gaa6d g1022 g1012 g1017 g_endash);
 cNar =(g1075 g1004 gaa6b g1015 g1019 g101d gaa6d);
@@ -8,6 +10,7 @@ table (substitution);
 pass(1);
 g103a g1036 > g103a_1036 _ ;
 g1083 g103a > g1083_103a _ ;
+g103a g103a > _ g103a_103a ;
 g1039 cno_sub > _ csub ;
 endpass;
 

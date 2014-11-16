@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1257921800
-ModificationTime: 1410842242
+ModificationTime: 1416134626
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -306,8 +306,7 @@ ShortTable: maxp 16
 EndShort
 LangName: 1033 "" "" "" "Stephen Morey : Aiton_Unicode : 24-11-2009" 
 GaspTable: 1 65535 2 0
-Encoding: UnicodeBmp
-Compacted: 1
+Encoding: Custom
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
@@ -318,10 +317,10 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 396361 198180 132120 0 1048576 132120 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor0"  "Mark to base attachment lookup 0 subtable" "Anchor1"  "Mark to base attachment lookup 0 subtable" "Anchor2"  "Mark to base attachment lookup 0 subtable" "Anchor3"  "Mark to base attachment lookup 0 subtable" 
-BeginChars: 65558 79
+BeginChars: 81 81
 
 StartChar: .notdef
-Encoding: 65536 -1 0
+Encoding: 58 -1 0
 Width: 218
 VWidth: 600
 Flags: W
@@ -391,7 +390,7 @@ Validated: 1
 EndChar
 
 StartChar: .null
-Encoding: 65537 -1 1
+Encoding: 59 -1 1
 Width: 0
 VWidth: 600
 Flags: W
@@ -399,7 +398,7 @@ LayerCount: 2
 EndChar
 
 StartChar: nonmarkingreturn
-Encoding: 65538 -1 2
+Encoding: 60 -1 2
 Width: 199
 VWidth: 600
 Flags: W
@@ -407,7 +406,7 @@ LayerCount: 2
 EndChar
 
 StartChar: u1000
-Encoding: 4096 4096 3
+Encoding: 1 4096 3
 Width: 916
 VWidth: 600
 GlyphClass: 3
@@ -498,7 +497,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u1000
 EndChar
 
 StartChar: u1004
-Encoding: 4100 4100 4
+Encoding: 3 4100 4
 Width: 403
 VWidth: 600
 GlyphClass: 3
@@ -557,7 +556,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u1004
 EndChar
 
 StartChar: u1010
-Encoding: 4112 4112 5
+Encoding: 4 4112 5
 Width: 898
 VWidth: 600
 GlyphClass: 3
@@ -643,7 +642,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u1010
 EndChar
 
 StartChar: u1011
-Encoding: 4113 4113 6
+Encoding: 5 4113 6
 Width: 898
 VWidth: 600
 GlyphClass: 3
@@ -713,7 +712,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u1011
 EndChar
 
 StartChar: u1015
-Encoding: 4117 4117 7
+Encoding: 7 4117 7
 Width: 556
 VWidth: 600
 GlyphClass: 3
@@ -791,7 +790,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u1015
 EndChar
 
 StartChar: u101A
-Encoding: 4122 4122 8
+Encoding: 10 4122 8
 Width: 898
 VWidth: 600
 GlyphClass: 3
@@ -885,7 +884,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u101A
 EndChar
 
 StartChar: u101C
-Encoding: 4124 4124 9
+Encoding: 11 4124 9
 Width: 898
 VWidth: 600
 GlyphClass: 3
@@ -970,7 +969,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u101C
 EndChar
 
 StartChar: u101D
-Encoding: 4125 4125 10
+Encoding: 12 4125 10
 Width: 506
 VWidth: 600
 GlyphClass: 3
@@ -1027,7 +1026,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u101D
 EndChar
 
 StartChar: u1022
-Encoding: 4130 4130 11
+Encoding: 13 4130 11
 Width: 1080
 VWidth: 600
 GlyphClass: 3
@@ -1131,7 +1130,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u1022
 EndChar
 
 StartChar: u102D
-Encoding: 4141 4141 12
+Encoding: 15 4141 12
 Width: 0
 VWidth: 600
 GlyphClass: 4
@@ -1169,7 +1168,7 @@ Validated: 1
 EndChar
 
 StartChar: u102E
-Encoding: 4142 4142 13
+Encoding: 16 4142 13
 Width: 0
 VWidth: 600
 GlyphClass: 4
@@ -1219,7 +1218,7 @@ Validated: 1
 EndChar
 
 StartChar: u102F
-Encoding: 4143 4143 14
+Encoding: 17 4143 14
 Width: 0
 VWidth: 600
 GlyphClass: 4
@@ -1253,7 +1252,7 @@ Validated: 33
 EndChar
 
 StartChar: u1030
-Encoding: 4144 4144 15
+Encoding: 18 4144 15
 Width: 0
 VWidth: 600
 GlyphClass: 4
@@ -1301,7 +1300,7 @@ Validated: 33
 EndChar
 
 StartChar: u1031
-Encoding: 4145 4145 16
+Encoding: 19 4145 16
 Width: 403
 VWidth: 600
 GlyphClass: 3
@@ -1352,7 +1351,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 8 subtable" guard u1031
 EndChar
 
 StartChar: u1036
-Encoding: 4150 4150 17
+Encoding: 20 4150 17
 Width: 19
 VWidth: 600
 GlyphClass: 4
@@ -1398,7 +1397,7 @@ Validated: 1
 EndChar
 
 StartChar: u103A
-Encoding: 4154 4154 18
+Encoding: 22 4154 18
 Width: 22
 VWidth: 600
 GlyphClass: 4
@@ -1462,7 +1461,7 @@ Validated: 1
 EndChar
 
 StartChar: u103B
-Encoding: 4155 4155 19
+Encoding: 23 4155 19
 Width: 109
 VWidth: 600
 GlyphClass: 4
@@ -1538,7 +1537,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" u103B u1031
 EndChar
 
 StartChar: u103C
-Encoding: 4156 4156 20
+Encoding: 24 4156 20
 Width: 123
 VWidth: 600
 GlyphClass: 3
@@ -1642,7 +1641,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" u103C u1031
 EndChar
 
 StartChar: u103D
-Encoding: 4157 4157 21
+Encoding: 25 4157 21
 Width: 0
 VWidth: 600
 GlyphClass: 4
@@ -1684,7 +1683,7 @@ Validated: 1
 EndChar
 
 StartChar: u105E
-Encoding: 4190 4190 22
+Encoding: 38 4190 22
 Width: 19
 VWidth: 600
 GlyphClass: 4
@@ -1767,7 +1766,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 5 subtable" u105E u1031
 EndChar
 
 StartChar: u1075
-Encoding: 4213 4213 23
+Encoding: 39 4213 23
 Width: 705
 VWidth: 600
 GlyphClass: 3
@@ -1872,7 +1871,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u1075
 EndChar
 
 StartChar: u1078
-Encoding: 4216 4216 24
+Encoding: 40 4216 24
 Width: 898
 VWidth: 600
 GlyphClass: 3
@@ -1997,7 +1996,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u1078
 EndChar
 
 StartChar: u107A
-Encoding: 4218 4218 25
+Encoding: 41 4218 25
 Width: 930
 VWidth: 600
 GlyphClass: 3
@@ -2181,7 +2180,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u107A
 EndChar
 
 StartChar: u1083
-Encoding: 4227 4227 26
+Encoding: 42 4227 26
 Width: 379
 VWidth: 600
 GlyphClass: 2
@@ -2231,7 +2230,7 @@ Validated: 1
 EndChar
 
 StartChar: u109C
-Encoding: 4252 4252 27
+Encoding: 44 4252 27
 Width: 244
 VWidth: 600
 GlyphClass: 2
@@ -2311,7 +2310,7 @@ Validated: 9
 EndChar
 
 StartChar: u109D
-Encoding: 4253 4253 28
+Encoding: 45 4253 28
 Width: 4
 VWidth: 600
 GlyphClass: 4
@@ -2372,7 +2371,7 @@ Validated: 1
 EndChar
 
 StartChar: uAA61
-Encoding: 43617 43617 29
+Encoding: 49 43617 29
 Width: 953
 VWidth: 600
 GlyphClass: 3
@@ -2517,7 +2516,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 uAA61
 EndChar
 
 StartChar: uAA6B
-Encoding: 43627 43627 30
+Encoding: 50 43627 30
 Width: 567
 VWidth: 600
 GlyphClass: 3
@@ -2667,7 +2666,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 uAA6B
 EndChar
 
 StartChar: uAA6D
-Encoding: 43629 43629 31
+Encoding: 52 43629 31
 Width: 669
 VWidth: 600
 GlyphClass: 3
@@ -2798,7 +2797,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 uAA6D
 EndChar
 
 StartChar: uAA77
-Encoding: 43639 43639 32
+Encoding: 54 43639 32
 Width: 992
 VWidth: 600
 GlyphClass: 2
@@ -3017,7 +3016,7 @@ Validated: 41
 EndChar
 
 StartChar: uAA78
-Encoding: 43640 43640 33
+Encoding: 55 43640 33
 Width: 627
 VWidth: 600
 GlyphClass: 2
@@ -3197,7 +3196,7 @@ Validated: 33
 EndChar
 
 StartChar: uAA79
-Encoding: 43641 43641 34
+Encoding: 56 43641 34
 Width: 506
 VWidth: 600
 GlyphClass: 2
@@ -3262,7 +3261,7 @@ Validated: 1
 EndChar
 
 StartChar: uAA7A
-Encoding: 43642 43642 35
+Encoding: 57 43642 35
 Width: 1017
 VWidth: 600
 GlyphClass: 3
@@ -3427,7 +3426,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 uAA7A
 EndChar
 
 StartChar: u1019
-Encoding: 4121 4121 36
+Encoding: 9 4121 36
 Width: 506
 VWidth: 600
 GlyphClass: 3
@@ -3531,7 +3530,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u1019
 EndChar
 
 StartChar: u1000.sub
-Encoding: 65539 -1 37
+Encoding: 61 -1 37
 Width: 1
 VWidth: 600
 GlyphClass: 4
@@ -3609,7 +3608,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 3 subtable" u1039 u1000
 EndChar
 
 StartChar: u1010.sub
-Encoding: 65540 -1 38
+Encoding: 62 -1 38
 Width: 1
 VWidth: 600
 GlyphClass: 4
@@ -3675,7 +3674,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 3 subtable" u1039 u1010
 EndChar
 
 StartChar: uAA61.sub
-Encoding: 65541 -1 39
+Encoding: 63 -1 39
 Width: 0
 VWidth: 600
 GlyphClass: 4
@@ -3821,7 +3820,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 3 subtable" u1039 uAA61
 EndChar
 
 StartChar: u1015.sub
-Encoding: 65542 -1 40
+Encoding: 64 -1 40
 Width: 1
 VWidth: 600
 GlyphClass: 4
@@ -3880,7 +3879,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 3 subtable" u1039 u1015
 EndChar
 
 StartChar: u101C.sub
-Encoding: 65543 -1 41
+Encoding: 65 -1 41
 Width: 3
 VWidth: 600
 GlyphClass: 4
@@ -3965,7 +3964,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 3 subtable" u1039 u101C
 EndChar
 
 StartChar: u101A.sub
-Encoding: 65544 -1 42
+Encoding: 66 -1 42
 Width: 4
 VWidth: 600
 GlyphClass: 4
@@ -4056,7 +4055,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 3 subtable" u1039 u101A
 EndChar
 
 StartChar: u1040
-Encoding: 4160 4160 43
+Encoding: 26 4160 43
 Width: 506
 VWidth: 600
 GlyphClass: 2
@@ -4088,7 +4087,7 @@ Validated: 1
 EndChar
 
 StartChar: u1041
-Encoding: 4161 4161 44
+Encoding: 27 4161 44
 Width: 487
 VWidth: 600
 GlyphClass: 2
@@ -4134,7 +4133,7 @@ Validated: 1
 EndChar
 
 StartChar: u1042
-Encoding: 4162 4162 45
+Encoding: 28 4162 45
 Width: 506
 VWidth: 600
 GlyphClass: 2
@@ -4180,7 +4179,7 @@ Validated: 1
 EndChar
 
 StartChar: u1043
-Encoding: 4163 4163 46
+Encoding: 29 4163 46
 Width: 487
 VWidth: 600
 GlyphClass: 2
@@ -4235,7 +4234,7 @@ Validated: 1
 EndChar
 
 StartChar: u1044
-Encoding: 4164 4164 47
+Encoding: 30 4164 47
 Width: 487
 VWidth: 600
 GlyphClass: 2
@@ -4293,7 +4292,7 @@ Validated: 1
 EndChar
 
 StartChar: u1045
-Encoding: 4165 4165 48
+Encoding: 31 4165 48
 Width: 506
 VWidth: 600
 GlyphClass: 2
@@ -4361,7 +4360,7 @@ Validated: 1
 EndChar
 
 StartChar: u1046
-Encoding: 4166 4166 49
+Encoding: 32 4166 49
 Width: 508
 VWidth: 600
 GlyphClass: 2
@@ -4441,7 +4440,7 @@ Validated: 1
 EndChar
 
 StartChar: u1047
-Encoding: 4167 4167 50
+Encoding: 33 4167 50
 Width: 506
 VWidth: 600
 GlyphClass: 2
@@ -4489,7 +4488,7 @@ Validated: 1
 EndChar
 
 StartChar: u1048
-Encoding: 4168 4168 51
+Encoding: 34 4168 51
 Width: 506
 VWidth: 600
 GlyphClass: 2
@@ -4538,7 +4537,7 @@ Validated: 1
 EndChar
 
 StartChar: u1049
-Encoding: 4169 4169 52
+Encoding: 35 4169 52
 Width: 508
 VWidth: 600
 GlyphClass: 2
@@ -4632,7 +4631,7 @@ Validated: 1
 EndChar
 
 StartChar: u104A
-Encoding: 4170 4170 53
+Encoding: 36 4170 53
 Width: 216
 VWidth: 600
 GlyphClass: 2
@@ -4656,7 +4655,7 @@ Validated: 1
 EndChar
 
 StartChar: u104B
-Encoding: 4171 4171 54
+Encoding: 37 4171 54
 Width: 279
 VWidth: 600
 GlyphClass: 2
@@ -4691,7 +4690,7 @@ Validated: 1
 EndChar
 
 StartChar: u1011.sub
-Encoding: 65545 -1 55
+Encoding: 67 -1 55
 Width: 4
 VWidth: 600
 GlyphClass: 4
@@ -4757,7 +4756,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 3 subtable" u1039 u1011
 EndChar
 
 StartChar: uAA70
-Encoding: 43632 43632 56
+Encoding: 53 43632 56
 Width: 345
 VWidth: 600
 GlyphClass: 4
@@ -4856,7 +4855,7 @@ Validated: 1
 EndChar
 
 StartChar: u1075.sub
-Encoding: 65547 -1 57
+Encoding: 68 -1 57
 Width: 705
 VWidth: 600
 GlyphClass: 4
@@ -4872,7 +4871,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 3 subtable" u1039 u1075
 EndChar
 
 StartChar: u1092
-Encoding: 4242 4242 58
+Encoding: 43 4242 58
 Width: 560
 VWidth: 600
 GlyphClass: 2
@@ -5011,7 +5010,7 @@ Validated: 1
 EndChar
 
 StartChar: u103C.udia
-Encoding: 65548 -1 59
+Encoding: 69 -1 59
 Width: 123
 VWidth: 600
 GlyphClass: 3
@@ -5112,7 +5111,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 8 subtable" guard u103C.udia
 EndChar
 
 StartChar: u103C.nar
-Encoding: 65549 -1 60
+Encoding: 70 -1 60
 Width: 117
 VWidth: 600
 GlyphClass: 3
@@ -5200,7 +5199,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 8 subtable" guard u103C.nar
 EndChar
 
 StartChar: u103C.nar.udia
-Encoding: 65550 -1 61
+Encoding: 71 -1 61
 Width: 144
 VWidth: 600
 GlyphClass: 3
@@ -5278,7 +5277,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 8 subtable" guard u103C.nar.udia
 EndChar
 
 StartChar: uAA77.alt
-Encoding: 65551 -1 62
+Encoding: 72 -1 62
 Width: 998
 VWidth: 600
 GlyphClass: 2
@@ -5505,7 +5504,7 @@ Validated: 1
 EndChar
 
 StartChar: u103c.sub.old1
-Encoding: 65552 -1 63
+Encoding: 73 -1 63
 Width: 0
 VWidth: 600
 GlyphClass: 4
@@ -5561,7 +5560,7 @@ Validated: 1
 EndChar
 
 StartChar: u103c.sub.old2
-Encoding: 65553 -1 64
+Encoding: 74 -1 64
 Width: 0
 VWidth: 600
 GlyphClass: 4
@@ -5621,7 +5620,7 @@ Validated: 41
 EndChar
 
 StartChar: u1017
-Encoding: 4119 4119 65
+Encoding: 8 4119 65
 Width: 506
 VWidth: 600
 GlyphClass: 3
@@ -5687,7 +5686,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u1017
 EndChar
 
 StartChar: u1012
-Encoding: 4114 4114 66
+Encoding: 6 4114 66
 Width: 506
 VWidth: 600
 GlyphClass: 3
@@ -5767,7 +5766,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u1012
 EndChar
 
 StartChar: u1002
-Encoding: 4098 4098 67
+Encoding: 2 4098 67
 Width: 506
 VWidth: 600
 GlyphClass: 3
@@ -5824,7 +5823,7 @@ MultipleSubs2: "Multiple Substitution lookup 0 subtable" guard u1031 u1002
 EndChar
 
 StartChar: u103A_u1036
-Encoding: 65554 -1 68
+Encoding: 75 -1 68
 Width: 22
 VWidth: 600
 GlyphClass: 2
@@ -5917,7 +5916,7 @@ Validated: 1
 EndChar
 
 StartChar: u1083_u103A
-Encoding: 65555 -1 69
+Encoding: 76 -1 69
 Width: 379
 VWidth: 600
 GlyphClass: 2
@@ -6017,7 +6016,7 @@ Validated: 5
 EndChar
 
 StartChar: u25CC
-Encoding: 9676 9676 70
+Encoding: 48 9676 70
 Width: 381
 VWidth: 600
 GlyphClass: 2
@@ -6110,7 +6109,7 @@ Validated: 1
 EndChar
 
 StartChar: u1039
-Encoding: 4153 4153 71
+Encoding: 21 4153 71
 Width: 33
 VWidth: 600
 GlyphClass: 2
@@ -6203,7 +6202,7 @@ Validated: 1
 EndChar
 
 StartChar: u200B
-Encoding: 8203 8203 72
+Encoding: 46 8203 72
 Width: 0
 VWidth: 600
 GlyphClass: 2
@@ -6212,7 +6211,7 @@ LayerCount: 2
 EndChar
 
 StartChar: guard
-Encoding: 65556 -1 73
+Encoding: 77 -1 73
 Width: 0
 VWidth: 600
 GlyphClass: 2
@@ -6221,7 +6220,7 @@ LayerCount: 2
 EndChar
 
 StartChar: space
-Encoding: 32 32 74
+Encoding: 0 32 74
 Width: 378
 VWidth: 1024
 Flags: W
@@ -6229,7 +6228,7 @@ LayerCount: 2
 EndChar
 
 StartChar: uAA6C
-Encoding: 43628 43628 75
+Encoding: 51 43628 75
 Width: 898
 VWidth: 600
 Flags: W
@@ -6342,7 +6341,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: uAA6C.sub
-Encoding: 65557 -1 76
+Encoding: 78 -1 76
 Width: 898
 VWidth: 600
 GlyphClass: 4
@@ -6351,102 +6350,102 @@ AnchorPoint: "Anchor2" 477.6 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
-209.662 -34.5381 m 2
- 202.398 -38.7119 202.398 -38.7119 194.651 -46.1299 c 1
- 188.841 -50.3027 188.841 -50.3027 181.578 -58.6484 c 1
- 167.052 -78.5859 l 1
- 156.399 -101.77 l 1
- 146.231 -132.834 l 1
- 140.904 -162.973 l 1
- 138.969 -192.646 l 1
- 138.969 -257.559 138.969 -257.559 189.567 -309.952 c 0
- 240.167 -362.346 240.167 -362.346 313.766 -362.346 c 0
- 361.218 -362.346 361.218 -362.346 403.828 -336.845 c 1
- 425.617 -325.717 425.617 -325.717 431.911 -318.298 c 1
- 449.827 -299.752 449.827 -299.752 449.827 -266.832 c 1
- 449.343 -255.704 l 2
- 449.343 -248.285 449.343 -248.285 446.922 -239.013 c 1
- 444.985 -226.493 444.985 -226.493 437.238 -202.384 c 0
- 429.49 -178.273 429.49 -178.273 429.49 -165.291 c 0
- 429.49 -129.125 429.49 -129.125 472.585 -124.952 c 1
- 493.405 -129.125 493.405 -129.125 507.932 -138.862 c 1
- 519.068 -147.208 519.068 -147.208 519.068 -162.509 c 2
- 519.068 -171.318 l 1
- 517.132 -179.2 l 1
- 515.194 -187.546 l 1
- 511.806 -199.138 l 2
- 505.026 -221.857 505.026 -221.857 501.879 -239.939 c 0
- 498.731 -258.022 498.731 -258.022 498.731 -272.859 c 0
- 498.731 -295.115 498.731 -295.115 506.479 -309.489 c 0
- 510.837 -317.835 510.837 -317.835 535.047 -334.062 c 1
- 558.289 -343.8 l 1
- 581.047 -350.754 l 1
- 603.804 -354.928 l 1
- 627.046 -356.781 l 1
- 696.771 -356.781 696.771 -356.781 749.065 -303.925 c 0
- 801.359 -251.067 801.359 -251.067 801.359 -187.083 c 1
- 799.423 -157.408 l 1
- 794.58 -127.271 l 1
- 791.676 -112.434 791.676 -112.434 785.865 -99.4512 c 2
- 780.055 -85.541 l 1
- 778.602 -79.5137 778.602 -79.5137 773.76 -73.0225 c 1
- 763.107 -54.0127 763.107 -54.0127 746.16 -40.5664 c 2
- 739.865 -35.4658 l 1
- 731.634 -30.8291 l 1
- 722.918 -26.6562 l 1
- 710.329 -21.5557 l 1
- 695.803 -21.5557 695.803 -21.5557 691.445 -24.3379 c 1
- 686.604 -30.3652 686.604 -30.3652 686.604 -37.7842 c 1
- 689.992 -44.2754 689.992 -44.2754 697.256 -51.2305 c 1
- 715.171 -60.5039 l 1
- 726.308 -68.3857 l 1
- 737.929 -82.7588 l 1
- 747.129 -95.7412 l 1
- 752.939 -107.333 l 1
- 756.812 -116.606 l 1
- 764.076 -137.471 l 1
- 767.949 -155.554 l 1
- 767.949 -187.083 l 2
- 767.949 -244.112 767.949 -244.112 725.34 -284.914 c 0
- 682.729 -325.717 682.729 -325.717 627.046 -325.717 c 0
- 599.931 -325.717 599.931 -325.717 577.173 -318.762 c 0
- 554.415 -311.808 554.415 -311.808 531.657 -290.479 c 0
- 525.848 -284.914 525.848 -284.914 525.848 -271.005 c 1
- 526.331 -263.586 l 1
- 529.236 -250.141 l 1
- 539.405 -204.238 l 1
- 546.668 -175.027 546.668 -175.027 546.668 -159.727 c 0
- 546.668 -147.672 546.668 -147.672 540.857 -133.762 c 1
- 534.562 -122.17 534.562 -122.17 521.005 -112.897 c 1
- 495.826 -100.842 495.826 -100.842 473.553 -100.842 c 1
- 463.869 -101.306 l 2
- 458.543 -101.306 458.543 -101.306 453.217 -103.16 c 2
- 438.206 -107.333 l 1
- 426.102 -112.897 l 1
- 413.996 -119.389 413.996 -119.389 405.765 -131.907 c 1
- 399.954 -143.962 399.954 -143.962 399.954 -161.117 c 0
- 399.954 -175.955 399.954 -175.955 410.122 -215.598 c 0
- 420.291 -255.24 420.291 -255.24 420.291 -271.005 c 0
- 420.291 -283.987 420.291 -283.987 413.996 -290.479 c 0
- 392.691 -310.416 392.691 -310.416 367.997 -321.08 c 1
- 341.85 -328.499 l 1
- 328.776 -331.28 328.776 -331.28 313.766 -331.28 c 0
- 257.114 -331.28 257.114 -331.28 214.988 -290.942 c 0
- 172.862 -250.604 172.862 -250.604 172.862 -192.646 c 2
- 172.862 -161.117 l 1
- 176.736 -143.035 l 1
- 178.188 -126.343 178.188 -126.343 182.062 -122.17 c 1
- 184.968 -114.752 l 1
- 193.199 -100.842 l 1
- 206.272 -121.243 l 1
- 215.473 -128.661 215.473 -128.661 236.777 -128.661 c 0
- 253.24 -128.661 253.24 -128.661 269.219 -115.215 c 0
- 287.619 -99.9141 287.619 -99.9141 287.619 -77.1953 c 0
- 287.619 -53.085 287.619 -53.085 273.577 -39.4072 c 0
- 259.535 -25.7285 259.535 -25.7285 238.714 -25.7285 c 0
- 228.062 -25.7285 228.062 -25.7285 227.093 -26.6562 c 1
- 218.378 -29.9023 l 1
- 209.662 -34.5381 l 2
+209.662 -34.5381 m 2,0,1
+ 202.398 -38.7119 202.398 -38.7119 194.651 -46.1299 c 1,2,3
+ 188.841 -50.3027 188.841 -50.3027 181.578 -58.6484 c 1,4,-1
+ 167.052 -78.5859 l 1,5,-1
+ 156.399 -101.77 l 1,6,-1
+ 146.231 -132.834 l 1,7,-1
+ 140.904 -162.973 l 1,8,-1
+ 138.969 -192.646 l 1,9,10
+ 138.969 -257.559 138.969 -257.559 189.567 -309.952 c 0,11,12
+ 240.167 -362.346 240.167 -362.346 313.766 -362.346 c 0,13,14
+ 361.218 -362.346 361.218 -362.346 403.828 -336.845 c 1,15,16
+ 425.617 -325.717 425.617 -325.717 431.911 -318.298 c 1,17,18
+ 449.827 -299.752 449.827 -299.752 449.827 -266.832 c 1,19,-1
+ 449.343 -255.704 l 2,20,21
+ 449.343 -248.285 449.343 -248.285 446.922 -239.013 c 1,22,23
+ 444.985 -226.493 444.985 -226.493 437.238 -202.384 c 0,24,25
+ 429.49 -178.273 429.49 -178.273 429.49 -165.291 c 0,26,27
+ 429.49 -129.125 429.49 -129.125 472.585 -124.952 c 1,28,29
+ 493.405 -129.125 493.405 -129.125 507.932 -138.862 c 1,30,31
+ 519.068 -147.208 519.068 -147.208 519.068 -162.509 c 2,32,-1
+ 519.068 -171.318 l 1,33,-1
+ 517.132 -179.2 l 1,34,-1
+ 515.194 -187.546 l 1,35,-1
+ 511.806 -199.138 l 2,36,37
+ 505.026 -221.857 505.026 -221.857 501.879 -239.939 c 0,38,39
+ 498.731 -258.022 498.731 -258.022 498.731 -272.859 c 0,40,41
+ 498.731 -295.115 498.731 -295.115 506.479 -309.489 c 0,42,43
+ 510.837 -317.835 510.837 -317.835 535.047 -334.062 c 1,44,-1
+ 558.289 -343.8 l 1,45,-1
+ 581.047 -350.754 l 1,46,-1
+ 603.804 -354.928 l 1,47,-1
+ 627.046 -356.781 l 1,48,49
+ 696.771 -356.781 696.771 -356.781 749.065 -303.925 c 0,50,51
+ 801.359 -251.067 801.359 -251.067 801.359 -187.083 c 1,52,-1
+ 799.423 -157.408 l 1,53,-1
+ 794.58 -127.271 l 1,54,55
+ 791.676 -112.434 791.676 -112.434 785.865 -99.4512 c 2,56,-1
+ 780.055 -85.541 l 1,57,58
+ 778.602 -79.5137 778.602 -79.5137 773.76 -73.0225 c 1,59,60
+ 763.107 -54.0127 763.107 -54.0127 746.16 -40.5664 c 2,61,-1
+ 739.865 -35.4658 l 1,62,-1
+ 731.634 -30.8291 l 1,63,-1
+ 722.918 -26.6562 l 1,64,-1
+ 710.329 -21.5557 l 1,65,66
+ 695.803 -21.5557 695.803 -21.5557 691.445 -24.3379 c 1,67,68
+ 686.604 -30.3652 686.604 -30.3652 686.604 -37.7842 c 1,69,70
+ 689.992 -44.2754 689.992 -44.2754 697.256 -51.2305 c 1,71,-1
+ 715.171 -60.5039 l 1,72,-1
+ 726.308 -68.3857 l 1,73,-1
+ 737.929 -82.7588 l 1,74,-1
+ 747.129 -95.7412 l 1,75,-1
+ 752.939 -107.333 l 1,76,-1
+ 756.812 -116.606 l 1,77,-1
+ 764.076 -137.471 l 1,78,-1
+ 767.949 -155.554 l 1,79,-1
+ 767.949 -187.083 l 2,80,81
+ 767.949 -244.112 767.949 -244.112 725.34 -284.914 c 0,82,83
+ 682.729 -325.717 682.729 -325.717 627.046 -325.717 c 0,84,85
+ 599.931 -325.717 599.931 -325.717 577.173 -318.762 c 0,86,87
+ 554.415 -311.808 554.415 -311.808 531.657 -290.479 c 0,88,89
+ 525.848 -284.914 525.848 -284.914 525.848 -271.005 c 1,90,-1
+ 526.331 -263.586 l 1,91,-1
+ 529.236 -250.141 l 1,92,-1
+ 539.405 -204.238 l 1,93,94
+ 546.668 -175.027 546.668 -175.027 546.668 -159.727 c 0,95,96
+ 546.668 -147.672 546.668 -147.672 540.857 -133.762 c 1,97,98
+ 534.562 -122.17 534.562 -122.17 521.005 -112.897 c 1,99,100
+ 495.826 -100.842 495.826 -100.842 473.553 -100.842 c 1,101,-1
+ 463.869 -101.306 l 2,102,103
+ 458.543 -101.306 458.543 -101.306 453.217 -103.16 c 2,104,-1
+ 438.206 -107.333 l 1,105,-1
+ 426.102 -112.897 l 1,106,107
+ 413.996 -119.389 413.996 -119.389 405.765 -131.907 c 1,108,109
+ 399.954 -143.962 399.954 -143.962 399.954 -161.117 c 0,110,111
+ 399.954 -175.955 399.954 -175.955 410.122 -215.598 c 0,112,113
+ 420.291 -255.24 420.291 -255.24 420.291 -271.005 c 0,114,115
+ 420.291 -283.987 420.291 -283.987 413.996 -290.479 c 0,116,117
+ 392.691 -310.416 392.691 -310.416 367.997 -321.08 c 1,118,-1
+ 341.85 -328.499 l 1,119,120
+ 328.776 -331.28 328.776 -331.28 313.766 -331.28 c 0,121,122
+ 257.114 -331.28 257.114 -331.28 214.988 -290.942 c 0,123,124
+ 172.862 -250.604 172.862 -250.604 172.862 -192.646 c 2,125,-1
+ 172.862 -161.117 l 1,126,-1
+ 176.736 -143.035 l 1,127,128
+ 178.188 -126.343 178.188 -126.343 182.062 -122.17 c 1,129,-1
+ 184.968 -114.752 l 1,130,-1
+ 193.199 -100.842 l 1,131,-1
+ 206.272 -121.243 l 1,132,133
+ 215.473 -128.661 215.473 -128.661 236.777 -128.661 c 0,134,135
+ 253.24 -128.661 253.24 -128.661 269.219 -115.215 c 0,136,137
+ 287.619 -99.9141 287.619 -99.9141 287.619 -77.1953 c 0,138,139
+ 287.619 -53.085 287.619 -53.085 273.577 -39.4072 c 0,140,141
+ 259.535 -25.7285 259.535 -25.7285 238.714 -25.7285 c 0,142,143
+ 228.062 -25.7285 228.062 -25.7285 227.093 -26.6562 c 1,144,-1
+ 218.378 -29.9023 l 1,145,-1
+ 209.662 -34.5381 l 2,0,1
 EndSplineSet
 Validated: 9
 Ligature2: "'clig' Contextual Ligatures lookup 7 subtable" uAA6C.sub u103C
@@ -6455,7 +6454,7 @@ Ligature2: "'clig' Contextual Ligatures lookup 3 subtable" u1039 uAA6C
 EndChar
 
 StartChar: endash
-Encoding: 8211 8211 77
+Encoding: 47 8211 77
 Width: 465
 VWidth: 1024
 GlyphClass: 2
@@ -6476,7 +6475,7 @@ Validated: 1
 EndChar
 
 StartChar: uni102C
-Encoding: 4140 4140 78
+Encoding: 14 4140 78
 Width: 349
 VWidth: 1228
 Flags: W
@@ -6519,6 +6518,168 @@ SplineSet
  -16.7998 384.6 l 5,48,-1
  -21.5996 394.2 l 5,49,-1
  -20.4004 400.8 l 5,0,1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u103A_u103A
+Encoding: 79 -1 79
+Width: 22
+VWidth: 600
+Flags: W
+AnchorPoint: "Anchor3" -150 394.2 mark 0
+LayerCount: 2
+Fore
+SplineSet
+188.4 961.2 m 1,0,-1
+ 188.4 954 l 1,1,-1
+ 184.2 948.6 l 1,2,-1
+ 176.4 949.8 l 1,3,-1
+ 168 951 l 1,4,-1
+ 160.2 952.8 l 1,5,-1
+ 153 954 l 1,6,-1
+ 146.4 955.2 l 1,7,-1
+ 126 958.8 l 1,8,-1
+ 103.8 963 l 1,9,-1
+ 97.2002 964.2 l 1,10,-1
+ 70.2002 966.6 l 1,11,12
+ 37.7998 966.6 37.7998 966.6 -6.59961 946.8 c 0,13,14
+ -26.4004 937.8 -26.4004 937.8 -54 899.4 c 1,15,-1
+ -78 863.4 l 1,16,-1
+ -83.4004 850.2 l 1,17,-1
+ -84 834.6 l 1,18,-1
+ -85.7998 826.8 l 1,19,-1
+ -87.5996 818.4 l 1,20,-1
+ -88.7998 808.2 l 1,21,22
+ -90 804.6 -90 804.6 -86.4004 798.6 c 1,23,-1
+ -68.4004 805.2 l 1,24,-1
+ -55.2002 807 l 1,25,26
+ -40.7998 805.2 -40.7998 805.2 -31.7998 794.4 c 1,27,28
+ -22.2002 784.8 -22.2002 784.8 -22.2002 769.2 c 1,29,-1
+ -22.7998 760.2 l 1,30,31
+ -26.4004 744 -26.4004 744 -41.4004 732.6 c 1,32,-1
+ -55.2002 727.2 l 1,33,-1
+ -69 726 l 1,34,-1
+ -82.2002 729 l 1,35,-1
+ -90.5996 733.2 l 1,36,-1
+ -100.8 746.4 l 1,37,-1
+ -110.4 762.6 l 1,38,-1
+ -116.4 784.2 l 1,39,-1
+ -120 803.4 l 1,40,-1
+ -120.6 831.6 l 1,41,-1
+ -114.6 856.8 l 1,42,-1
+ -107.4 882 l 1,43,44
+ -96 911.4 -96 911.4 -75.5996 930.6 c 1,45,46
+ -66 942 -66 942 -53.4004 950.4 c 2,47,-1
+ -23.4004 970.2 l 1,48,49
+ -10.2002 978 -10.2002 978 4.7998 982.8 c 2,50,-1
+ 21.5996 987.6 l 1,51,-1
+ 39.5996 993 l 1,52,-1
+ 70.2002 995.4 l 1,53,54
+ 84.5996 995.4 84.5996 995.4 106.2 991.8 c 2,55,-1
+ 135.6 986.4 l 1,56,-1
+ 141.6 984.6 l 1,57,58
+ 145.2 984.6 145.2 984.6 153.6 980.4 c 1,59,60
+ 172.8 975 172.8 975 188.4 961.2 c 1,0,-1
+70.7998 661.2 m 1,61,-1
+ 70.7998 654 l 1,62,-1
+ 66.5996 648.6 l 1,63,-1
+ 58.7998 649.8 l 1,64,-1
+ 50.4004 651 l 1,65,-1
+ 42.5996 652.8 l 1,66,-1
+ 35.4004 654 l 1,67,-1
+ 28.7998 655.2 l 1,68,-1
+ 8.40039 658.8 l 1,69,-1
+ -13.7998 663 l 1,70,-1
+ -20.4004 664.2 l 1,71,-1
+ -47.4004 666.6 l 1,72,73
+ -79.7998 666.6 -79.7998 666.6 -124.2 646.8 c 1,74,75
+ -171 623.4 -171 623.4 -190.8 576 c 1,76,-1
+ -195.6 563.4 l 1,77,-1
+ -201 550.2 l 1,78,-1
+ -201.6 534.6 l 1,79,-1
+ -203.4 526.8 l 1,80,-1
+ -205.2 518.4 l 1,81,-1
+ -206.4 508.2 l 1,82,83
+ -207.6 504.6 -207.6 504.6 -204 498.6 c 1,84,-1
+ -186 505.2 l 1,85,-1
+ -172.8 507 l 1,86,87
+ -158.4 505.2 -158.4 505.2 -149.4 494.4 c 1,88,89
+ -139.8 484.8 -139.8 484.8 -139.8 469.2 c 1,90,-1
+ -140.4 460.2 l 1,91,92
+ -144 444 -144 444 -159 432.6 c 1,93,-1
+ -172.8 427.2 l 1,94,-1
+ -186.6 426 l 1,95,-1
+ -199.8 429 l 1,96,-1
+ -208.2 433.2 l 1,97,-1
+ -218.4 446.4 l 1,98,-1
+ -228 462.6 l 1,99,-1
+ -234 484.2 l 1,100,-1
+ -237.6 503.4 l 1,101,-1
+ -238.2 531.6 l 1,102,-1
+ -232.2 556.8 l 1,103,-1
+ -225 582 l 1,104,105
+ -213.6 611.4 -213.6 611.4 -193.2 630.6 c 1,106,107
+ -183.6 642 -183.6 642 -171 650.4 c 2,108,-1
+ -141 670.2 l 1,109,110
+ -127.8 678 -127.8 678 -112.8 682.8 c 1,111,-1
+ -95.4004 687.6 l 1,112,-1
+ -78 693 l 1,113,-1
+ -47.4004 695.4 l 1,114,115
+ -33 695.4 -33 695.4 -11.4004 691.8 c 2,116,-1
+ 18 686.4 l 1,117,-1
+ 24 684.6 l 1,118,119
+ 27.5996 684.6 27.5996 684.6 36 680.4 c 1,120,121
+ 55.2002 675 55.2002 675 70.7998 661.2 c 1,61,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u102e_u102e
+Encoding: 80 -1 80
+Width: 0
+VWidth: 600
+Flags: W
+AnchorPoint: "Anchor3" -248.4 394.2 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-71.4004 605.4 m 0,0,1
+ -71.4004 531 -71.4004 531 -123 479.1 c 128,-1,2
+ -174.6 427.2 -174.6 427.2 -249.6 427.2 c 0,3,4
+ -316.8 427.2 -316.8 427.2 -371.7 479.7 c 128,-1,5
+ -426.6 532.2 -426.6 532.2 -426.6 605.4 c 0,6,7
+ -426.6 679.2 -426.6 679.2 -375 730.8 c 128,-1,8
+ -323.4 782.4 -323.4 782.4 -249.6 782.4 c 0,9,10
+ -181.8 782.4 -181.8 782.4 -124.2 730.2 c 1,11,12
+ -97.7998 703.8 -97.7998 703.8 -84.5996 673.2 c 1,13,-1
+ -75 640.8 l 1,14,15
+ -71.4004 624.6 -71.4004 624.6 -71.4004 605.4 c 0,0,1
+-130.2 543 m 1,16,-1
+ -125.4 553.8 l 1,17,-1
+ -118.2 573.6 l 1,18,-1
+ -115.2 589.8 l 1,19,-1
+ -114 605.4 l 1,20,21
+ -114 655.8 -114 655.8 -153.6 697.8 c 128,-1,22
+ -193.2 739.8 -193.2 739.8 -249.6 739.8 c 0,23,24
+ -301.8 739.8 -301.8 739.8 -343.2 700.2 c 0,25,26
+ -356.4 687 -356.4 687 -373.2 657 c 1,27,28
+ -383.4 633 -383.4 633 -383.4 605.4 c 0,29,30
+ -383.4 574.2 -383.4 574.2 -368.4 544.2 c 1,31,32
+ -353.4 563.4 -353.4 563.4 -314.4 586.2 c 1,33,34
+ -282.6 600.6 -282.6 600.6 -249.6 600.6 c 1,35,-1
+ -229.8 600 l 2,36,37
+ -220.2 600 -220.2 600 -213 597.6 c 1,38,39
+ -198.6 595.8 -198.6 595.8 -182.4 586.8 c 1,40,41
+ -153 573 -153 573 -130.2 543 c 1,16,-1
+-350.4 517.2 m 1,42,43
+ -309 470.4 -309 470.4 -249.6 470.4 c 0,44,45
+ -190.8 470.4 -190.8 470.4 -148.8 516 c 1,46,47
+ -184.2 570 -184.2 570 -249.6 570 c 0,48,49
+ -272.4 570 -272.4 570 -278.4 567 c 1,50,51
+ -282.6 565.8 -282.6 565.8 -290.1 563.1 c 128,-1,52
+ -297.6 560.4 -297.6 560.4 -309 555 c 1,53,54
+ -330.6 546 -330.6 546 -350.4 517.2 c 1,42,43
 EndSplineSet
 EndChar
 EndChars
