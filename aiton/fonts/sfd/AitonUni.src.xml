@@ -423,5 +423,25 @@
         <location x='-150' y='394'/>
     </point>
 </glyph>
+<glyph PSName="u102e_u102e">
+    <point type='_Anchor3'>
+        <location x='-248' y='394'/>
+    </point>
+</glyph>
+<glyph PSName="u1036_u1036">
+    <point type='_Anchor3'>
+        <location x='-154' y='442'/>
+    </point>
+</glyph>
+<glyph PSName="u109d_u109d">
+    <point type='_Anchor3'>
+        <location x='-243' y='394'/>
+    </point>
+</glyph>
+<glyph PSName="u103d_u102f">
+    <point type='_Anchor1'>
+        <location x='-192' y='0'/>
+    </point>
+</glyph>
 
 </font>
