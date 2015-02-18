@@ -10,7 +10,7 @@ The langauges ad scripts supported include:
 * Tai Aiton
 * Tai Phake
 
-Initial language support focuses on cross platform fonts and input solutions. Go to http://andjc.github.io/tai-languages for further information.
+Initial language support focuses on cross platform fonts and input solutions. Go to http://myanmarltt.github.io/tai-languages for further information.
 
 Credits
 --------
