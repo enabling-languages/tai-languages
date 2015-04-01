@@ -1,9 +1,9 @@
 Tai languages
 =============
 
-The Tai langauges project is implementing Unicode based solutions for the Tai langauges and scripts of Assam.
+The Tai languages project is implementing Unicode based solutions for the Tai languages and scripts of Assam.
 
-The langauges ad scripts supported include:
+The languages and scripts supported include:
 
 * Khamti Shan
 * Tai Ahom
@@ -15,6 +15,6 @@ Initial language support focuses on cross platform fonts and input solutions. Go
 Credits
 --------
 
-Aiton font and keyboard design by Stephen Morey. Graphite tables developed by Martin Hosken.
+Aiton and Phake fonts and keyboard layouts designed by Stephen Morey. Graphite tables developed by Martin Hosken.
 
 
