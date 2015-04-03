@@ -70,7 +70,7 @@ td[lang="phk"]>a, td[lang="phk"]>a:hover, td[lang="phk"]>a:link, td[lang="phk"]>
 }
 
 *[lang="phk"], td[lang="phk"]>a {
-    font-family:"Phake Unicode" !important;
+    font-family:"Phake Unicode, Aiton Unicode" !important;
 }
 
 .manuscript[lang="phk"], .alt[lang="phk"]  {
