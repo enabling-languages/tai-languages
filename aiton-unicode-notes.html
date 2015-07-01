@@ -277,12 +277,14 @@ for both Tai words and Pali loan words.</p>
 <table>
   <tr>
     <th>Glyph</th>
+    <td lang="aio">&ndash;&#x103D;&#x102F;</td>
     <td lang="aio">&#xAA77;</td>
     <td lang="aio">&#xAA78;</td>
     <td lang="aio">&#xAA79;</td>
   </tr>
   <tr>
     <th>Codepoint</th>
+    <td class="codepoint">103D 102F</td>
     <td class="codepoint">AA77</td>
     <td class="codepoint">AA78</td>
     <td class="codepoint">AA79</td>
@@ -292,9 +294,12 @@ for both Tai words and Pali loan words.</p>
 
 <h3>Reduplication</h3>
 
-<p>Khamti Shan uses a single character U+AA70 to mark reduplication. The reduplication character is functionally similar to the corresponding character in Thai <span lang="th">&#x0E46;</span> U+0E46 THAI CHARACTER MAIMAYOK. It is a spacing character. In Tai Aiton U+AA70 is equivalent to the sequence U+103A U+103A</p>
+<p>Khamti Shan uses a single character U+AA70 to mark reduplication. The reduplication character is functionally similar to the corresponding character in Thai <span lang="th">&#x0E46;</span> U+0E46 THAI CHARACTER MAIMAYOK. It is a spacing character. </p>
 
 <p>Tai Aiton indicates reduplication by doubling the one of four final characters. Tai Aiton uses ligatures for each of these four doubled final characters. Sat U+103A, the final vowel I U+102E, final AM U+1036 and final AI U+109D can all be doubled. </p>
+
+<p>The multiple uses of U+103A across languages in the Myanmar script and its effect on character ordering, makes it awkward and overly complicated to add another usage and position slot for U+103A. Within Khamti Shan U+103A followed by U+AA70 produces a ligature.
+In this implementation Tai Aiton reduplication will be represented by one of the four final characters followed by U+AA70, following the pattern in Khamti Shan, although gramatically, a doubling of the final is occuring.</p>
 
 <table>
   <tr>
@@ -312,33 +317,22 @@ for both Tai words and Pali loan words.</p>
 <table>
   <tr>
     <th>Glyph</th>
-    <td lang="aio">&ndash;&#xAA70;</td>
-    <td lang="aio">&ndash;&#x102E;&#x102E;</td>
-    <td lang="aio">&ndash;&#x1036;&#x1036;</td>
-    <td lang="aio">&ndash;&#x109D;&#x109D;</td>
+    <td lang="aio">&ndash;&#x103A;&#xAA70;</td>
+    <td lang="aio">&ndash;&#x102E;&#xAA70;</td>
+    <td lang="aio">&ndash;&#x1036;&#xAA70;</td>
+    <td lang="aio">&ndash;&#x109D;&#xAA70;</td>
   </tr>
   <tr>
     <th>Codepoint</th>
-    <td class="codepoint">AA70</td>
-    <td class="codepoint">102E 102E</td>
-    <td class="codepoint">1036 1036</td>
-    <td class="codepoint">109D 109D</td>
+    <td class="codepoint">103A AA70</td>
+    <td class="codepoint">102E AA70</td>
+    <td class="codepoint">1036 AA70</td>
+    <td class="codepoint">109D AA70</td>
   </tr>
 </table>
 
-<p>The glyph commonly used in Tai Aiton for U+AA70 differs from Khamti Shan, although some manuscripts will use a glyph similar to the Khamti Shan version.</p>
+<p>U+AA70  should not be used by itself in Tai Aiton.</p>
 
-
-<table>
-  <tr>
-  	<th>Tai Aiton</th>
-    <td lang="aio">&#xAA70;</td>
-  </tr>
-  <tr>
-  	<th>Khamti Shan</th>
-    <td lang="kht">&#xAA70;</td>
-  </tr>
-</table>
 
 <h4>Implementation note</h4>
 
