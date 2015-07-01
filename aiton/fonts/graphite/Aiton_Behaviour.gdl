@@ -8,14 +8,15 @@ endtable;
 
 table (substitution);
 pass(1);
+g102e gaa70 > g102e_aa70 _ ;
 g103a g1036 > g103a_1036 _ ;
-g1083 g103a > g1083_103a _ ;
-g103a g103a > g103a_103a _ ;
-g102e g102e > g102e_102e _ ;
-g1036 g1036 > g1036_1036 _ ;
-g109d g109d > g109d_109d _ ;
-g103d g102f > g103d_102f _ ;
+g103a gaa70 > g103a_aa70 _ ;
 g1039 cno_sub > _ csub ;
+g103d g102f > g103d_102f _ ;
+g1036 gaa70 > g1036_aa70 _ ;
+g1083 g103a > g1083_103a _ ;
+g109d gaa70 > g109d_aa70 _ ;
+
 endpass;
 
 pass(2);
