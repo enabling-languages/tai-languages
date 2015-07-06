@@ -1,0 +1,31 @@
+/*  #include "Aiton_Features.gdl"  */
+
+table(glyph)
+cCons =(g1000 g1075 g1004 gaa61 gaa6c g107a g1010 g1011 gaa6b g1015 g1078 g1019 g101a gaa7a g101c g101d gaa6d g1022 g1012 g1017 g_endash);
+cNar =(g1075 g1004 gaa6b g1015 g1019 g101d gaa6d);
+cUvowel =(g102e g102d g109d);
+endtable;
+
+table (substitution);
+pass(1);
+g102e gaa70 > g102e_aa70 _ ;
+g103a g1036 > g103a_1036 _ ;
+g103a gaa70 > g103a_aa70 _ ;
+g1039 cno_sub > _ csub ;
+g103d g102f > g103d_102f _ ;
+g1036 gaa70 > g1036_aa70 _ ;
+g1083 g103a > g1083_103a _ ;
+g109d gaa70 > g109d_aa70 _ ;
+
+endpass;
+
+pass(2);
+_ g1031 > @e:e _ / _ ^ cCons csub? g103b? g105e? g103c? g103d? _=e ;
+_ g103c > g103c_nar_dia:r _ / _ cNar csub? g103b? g105e? g103c? _=r cUvowel;
+_ g103c > g103c_nar:r _ / _ cNar csub? g103b? g105e? g103c? _=r ;
+_ g103c > g103c_dia:r _ / _ cCons csub? g103b? g105e? g103c? _=r cUvowel ;
+_ g103c > @r:r _ / _ cCons csub? g103b? g105e? g103c? _=r ;
+endpass;
+endtable;
+
+

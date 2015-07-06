@@ -1,0 +1,26 @@
+#define LG_USENG 1033
+
+table(feature)
+
+altsat
+{
+	id = "asat";
+	name.LG_USENG = string("Variant double sat");
+	default = 0;
+}
+
+endtable;
+
+
+
+/* MOVE TO Aiton_Behaviours.gdl  */
+
+/* @doc
+Handle feature substitutions
+@enddoc */
+
+/* 
+if (altsat)
+g103a_103a > gaa70
+endif;
+*/
