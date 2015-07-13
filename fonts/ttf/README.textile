@@ -1,7 +1,9 @@
-h1. Aiton Unicode fonts
+h1. Fonts for Tai langauges of Assam State, India
 
-*AitonUni.ttf* &ndash; TTF without graphite tables, and incomplete OT tables, generated from ../sfd/AitonUni.sfd
+*AssamTai.src.ttf* &ndash; TTF without graphite tables, and incomplete OT tables, generated from ../sfd/AssamTai.sfd
 
-*AitonUni.gr.ttf* &ndash; TTF with graphite tables and incomplete OT tables, compiled from AitonUni.ttf &ndash; under development
+*AssamTai.gr.ttf* &ndash; TTF with graphite tables and incomplete OT tables, compiled from AssamTai.src.ttf &ndash; under development
 
-*AitonUni.gr.woff* &ndash; WOFF font generated from AitonUni.gr.ttf
+*AssamTai.gr.woff* &ndash; WOFF font generated from AssamTai.gr.ttf
+
+*AssamTai.gr.woff2* &ndash; WOFF2 font generated from AssamTai.gr.ttf
